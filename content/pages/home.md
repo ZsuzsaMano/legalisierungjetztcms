@@ -1,9 +1,6 @@
 ---
 title: home
-content: |-
-  # Schließt die Lücken. 
-
-  # Öffnet die Grenzen.
+content: "# Close the Gap, Open the Borders"
 SEOmetaData:
   metaImage: https://decapcms.org/img/decap-logo.svg
   metaDescription: Schließt die Lücken. Öffnet die Grenzen.
