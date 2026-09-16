@@ -91,15 +91,42 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "content", label: "Content", widget: "markdown" }
-      - name: "Events"
-        label: "events"
+      - name: "events"
+        label: "Events"
         extension: json
         file: "content/pages/events.json"
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - {
-              name: "test-fields",
-              label: "field objects test",
+              name: "sub-title1",
+              label: "ub-title1",
+              widget: "string",
+              default: "fields.title",
+            }
+          - { name: "content", label: "Content", widget: "markdown" }
+          - {
+              name: "sub-title1",
+              label: "ub-title1",
+              widget: "string",
+              default: "fields.title",
+            }
+          - { name: "content", label: "Content", widget: "markdown" }
+      - name: "press"
+        label: "Press"
+        extension: json
+        file: "content/pages/events.json"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - {
+              name: "sub-title1",
+              label: "ub-title1",
+              widget: "string",
+              default: "fields.title",
+            }
+          - { name: "content", label: "Content", widget: "markdown" }
+          - {
+              name: "sub-title1",
+              label: "ub-title1",
               widget: "string",
               default: "fields.title",
             }
