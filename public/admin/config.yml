@@ -99,14 +99,14 @@ collections:
           - { name: "title", label: "Title", widget: "string" }
           - {
               name: "sub-title1",
-              label: "ub-title1",
+              label: "sub-title1",
               widget: "string",
               default: "fields.title",
             }
           - { name: "content", label: "Content", widget: "markdown" }
           - {
-              name: "sub-title1",
-              label: "ub-title1",
+              name: "sub-title2",
+              label: "sub-title2",
               widget: "string",
               default: "fields.title",
             }
@@ -119,14 +119,14 @@ collections:
           - { name: "title", label: "Title", widget: "string" }
           - {
               name: "sub-title1",
-              label: "ub-title1",
+              label: "sub-title1",
               widget: "string",
               default: "fields.title",
             }
           - { name: "content", label: "Content", widget: "markdown" }
           - {
-              name: "sub-title1",
-              label: "ub-title1",
+              name: "sub-title2",
+              label: "sub-title2",
               widget: "string",
               default: "fields.title",
             }
