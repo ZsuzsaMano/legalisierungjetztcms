@@ -14,11 +14,14 @@
         <NuxtLink to="/" class="menu-item item--home" prefetch>
           <span>Home</span>
         </NuxtLink>
-        <NuxtLink to="/typography" class="menu-item" prefetch>
+        <NuxtLink to="/letter" class="menu-item" prefetch>
           <span>Letter</span>
         </NuxtLink>
         <NuxtLink to="/events" class="menu-item" prefetch>
           <span>Events</span>
+        </NuxtLink>
+        <NuxtLink to="/typography" class="menu-item" prefetch>
+          <span>typography</span>
         </NuxtLink>
       </menu>
     </nav>
