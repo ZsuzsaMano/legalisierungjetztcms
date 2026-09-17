@@ -98,15 +98,15 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - {
-              name: "sub-title1",
-              label: "sub-title1",
+              name: "subTitle1",
+              label: "subtitle 1",
               widget: "string",
               default: "fields.title",
             }
           - { name: "content1", label: "Content", widget: "markdown" }
           - {
-              name: "sub-title2",
-              label: "sub-title2",
+              name: "subTitle 2",
+              label: "subtitle 2",
               widget: "string",
               default: "fields.title",
             }
@@ -118,15 +118,15 @@ collections:
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - {
-              name: "sub-title1",
+              name: "subTitle1",
               label: "sub-title1",
               widget: "string",
               default: "fields.title",
             }
           - { name: "content1", label: "Content", widget: "markdown" }
           - {
-              name: "sub-title2",
-              label: "sub-title2",
+              name: "subTitle2",
+              label: "subtitle 2",
               widget: "string",
               default: "fields.title",
             }

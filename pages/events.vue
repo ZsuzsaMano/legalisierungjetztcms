@@ -1,7 +1,10 @@
 <template>
-  <main id="main" class="typography">
+  <main id="main" class="events">
     <span>{{ events.title }}</span>
-    <MDC :value="events.content" />
+    <MDC :value="events.subTitle1" />
+    <MDC :value="events.content1" />
+    <MDC :value="events.subTitle2" />
+    <MDC :value="events.content2" />
   </main>
 </template>
 
