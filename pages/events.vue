@@ -1,11 +1,11 @@
 <template>
   <main id="main" class="events">
-    <span>{{ events.title }}</span>
+    <h2>{{ events.title }}</h2>
 
-    <span>{{ events.subTitle1 }}</span>
+    <h3>{{ events.subTitle1 }}</h3>
     <MDC :value="events.content1" />
 
-    <span>{{ events.subTitle2 }}</span>
+    <h3>{{ events.subTitle2 }}</h3>
     <MDC :value="events.content2" />
   </main>
 </template>
