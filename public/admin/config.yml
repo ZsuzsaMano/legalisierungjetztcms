@@ -103,14 +103,14 @@ collections:
               widget: "string",
               default: "fields.title",
             }
-          - { name: "content", label: "Content", widget: "markdown" }
+          - { name: "content1", label: "Content", widget: "markdown" }
           - {
               name: "sub-title2",
               label: "sub-title2",
               widget: "string",
               default: "fields.title",
             }
-          - { name: "content", label: "Content", widget: "markdown" }
+          - { name: "content2", label: "Content", widget: "markdown" }
       - name: "press"
         label: "Press"
         extension: json
@@ -123,11 +123,11 @@ collections:
               widget: "string",
               default: "fields.title",
             }
-          - { name: "content", label: "Content", widget: "markdown" }
+          - { name: "content1", label: "Content", widget: "markdown" }
           - {
               name: "sub-title2",
               label: "sub-title2",
               widget: "string",
               default: "fields.title",
             }
-          - { name: "content", label: "Content", widget: "markdown" }
+          - { name: "content2", label: "Content", widget: "markdown" }
