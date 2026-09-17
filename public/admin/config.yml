@@ -106,7 +106,7 @@ collections:
           - { name: "content1", label: "Content", widget: "markdown" }
           - {
               name: "subTitle2",
-              label: "subtitle 2",
+              label: "subtit",
               widget: "string",
               default: "fields.title",
             }
