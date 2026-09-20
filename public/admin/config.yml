@@ -1,6 +1,19 @@
 # disable in production:
 local_backend: true
 # command to run a local Decap instance: npx-decap-server
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_folders
+
+  # Required - a list of locales to show in the editor UI
+  locales: [en, de, fr]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: en
 
 backend:
   name: git-gateway
@@ -52,6 +65,7 @@ seo: &seo
 collections:
   - name: "globalContent"
     label: "Global content"
+    i18n: true
     files:
       - name: "header"
         label: "Header"
@@ -89,9 +103,11 @@ collections:
   # SINGLE PAGES
   - name: "pages"
     label: "Pages"
+    i18n: true
     files:
       - name: "home"
         label: "Home"
+        i18n: true
         file: "content/pages/home.md"
         fields:
           - { name: "title", label: "Title", widget: "string" }
