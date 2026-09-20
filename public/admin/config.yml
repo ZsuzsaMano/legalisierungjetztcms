@@ -65,7 +65,6 @@ seo: &seo
 collections:
   - name: "globalContent"
     label: "Global content"
-    i18n: true
     files:
       - name: "header"
         label: "Header"
@@ -103,7 +102,6 @@ collections:
   # SINGLE PAGES
   - name: "pages"
     label: "Pages"
-    i18n: true
     files:
       - name: "home"
         label: "Home"
