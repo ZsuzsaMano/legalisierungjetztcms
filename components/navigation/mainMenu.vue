@@ -23,6 +23,12 @@
         <NuxtLink to="/press" class="menu-item" prefetch>
           <span>Press</span>
         </NuxtLink>
+        <NuxtLink to="/gallery" class="menu-item" prefetch>
+          <span>Gallery</span>
+        </NuxtLink>
+        <NuxtLink to="/documents" class="menu-item" prefetch>
+          <span>Documents</span>
+        </NuxtLink>
         <NuxtLink to="/typography" class="menu-item" prefetch>
           <span>typography</span>
         </NuxtLink>
