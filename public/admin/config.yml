@@ -51,8 +51,20 @@ seo: &seo
 
 collections:
   - name: "globalContent"
-    label: "global content"
+    label: "Global content"
     files:
+      - name: "header"
+        label: "Header"
+        file: "content/pages/header.md"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "content", label: "Content", widget: "markdown" }
+      - name: "footer"
+        label: "Footer"
+        file: "content/pages/footer.md"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - { name: "content", label: "Content", widget: "markdown" }
       - label: "buttons"
         name: "buttons"
         file: "content/site/buttons.md"
@@ -131,3 +143,15 @@ collections:
               default: "fields.title",
             }
           - { name: "content2", label: "Content", widget: "markdown" }
+      - name: "documents"
+        label: "Documents"
+        extension: json
+        file: "content/pages/documents.json"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+      - name: "gallery"
+        label: "Gallery"
+        extension: json
+        file: "content/pages/gallery.json"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
