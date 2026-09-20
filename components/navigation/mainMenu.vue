@@ -20,6 +20,9 @@
         <NuxtLink to="/events" class="menu-item" prefetch>
           <span>Events</span>
         </NuxtLink>
+        <NuxtLink to="/press" class="menu-item" prefetch>
+          <span>Press</span>
+        </NuxtLink>
         <NuxtLink to="/typography" class="menu-item" prefetch>
           <span>typography</span>
         </NuxtLink>
