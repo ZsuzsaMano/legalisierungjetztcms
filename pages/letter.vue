@@ -1,5 +1,5 @@
 <template>
-  <main id="main" class="typography">
+  <main id="main" class="letter">
     <h3>{{ letter.title }}</h3>
     <MDC :value="letter.content" />
   </main>
