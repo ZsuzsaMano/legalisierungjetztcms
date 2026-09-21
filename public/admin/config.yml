@@ -9,7 +9,7 @@ i18n:
   structure: multiple_folders
 
   # Required - a list of locales to show in the editor UI
-  locales: [en, de, fr]
+  locales: [en, de, sp]
 
   # Optional, defaults to the first item in locales.
   # The locale to be used for fields validation and as a baseline for the entry.
@@ -65,15 +65,18 @@ seo: &seo
 collections:
   - name: "globalContent"
     label: "Global content"
+    i18n: true
     files:
       - name: "header"
         label: "Header"
+        i18n: true
         file: "content/pages/header.md"
         fields:
           - { name: "title", label: "Title", widget: "string" }
           - { name: "content", label: "Content", widget: "markdown" }
       - name: "footer"
         label: "Footer"
+        i18n: true
         file: "content/pages/footer.md"
         fields:
           - { name: "title", label: "Title", widget: "string" }
@@ -81,6 +84,7 @@ collections:
       - label: "buttons"
         name: "buttons"
         file: "content/site/buttons.md"
+        i18n: true
         fields:
           - label: "next"
             name: "next"
