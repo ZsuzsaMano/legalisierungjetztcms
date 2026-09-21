@@ -110,7 +110,6 @@ collections:
     files:
       - name: "home"
         label: "Home"
-        i18n: true
         file: "content/pages/home.md"
         fields:
           - { name: "title", label: "Title", widget: "string" }
