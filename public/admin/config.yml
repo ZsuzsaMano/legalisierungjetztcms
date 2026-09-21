@@ -65,7 +65,8 @@ seo: &seo
 collections:
   - name: "globalContent"
     label: "Global content"
-    i18n: true
+    i18n:
+      structure: single_file
     files:
       - name: "header"
         label: "Header"
