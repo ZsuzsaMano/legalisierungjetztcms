@@ -71,7 +71,6 @@ collections:
       - name: "header"
         label: "Header"
         i18n: true
-        file: "content/pages/header.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -83,7 +82,6 @@ collections:
       - name: "footer"
         label: "Footer"
         i18n: true
-        file: "content/pages/footer.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -94,7 +92,6 @@ collections:
             }
       - label: "pageNames"
         name: "page names"
-        file: "content/pages.md"
         i18n: true
         fields:
           - label: "Letter"
@@ -127,7 +124,6 @@ collections:
       - name: "home"
         label: "Home"
         i18n: true
-        file: "content/pages/home.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -140,7 +136,6 @@ collections:
       - name: "letter"
         label: "Letter"
         i18n: true
-        file: "content/pages/letter.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -152,8 +147,6 @@ collections:
       - name: "events"
         label: "Events"
         i18n: true
-        extension: json
-        file: "content/pages/events.json"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -185,8 +178,6 @@ collections:
       - name: "press"
         label: "Press"
         i18n: true
-        extension: json
-        file: "content/pages/press.json"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -218,14 +209,10 @@ collections:
       - name: "documents"
         label: "Documents"
         i18n: true
-        extension: json
-        file: "content/pages/documents.json"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
       - name: "gallery"
         label: "Gallery"
         i18n: true
-        extension: json
-        file: "content/pages/gallery.json"
         fields:
           - { name: "title", label: "Title", widget: "string" }
