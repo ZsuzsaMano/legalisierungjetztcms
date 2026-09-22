@@ -94,11 +94,11 @@ collections:
             }
       - label: "pageNames"
         name: "page names"
-        file: "content/site/buttons.md"
+        file: "content/pages.md"
         i18n: true
         fields:
           - label: "Home"
-            name: "Home"
+            name: "home"
             i18n: duplicate
             required: false
             widget: "boolean"
@@ -108,17 +108,17 @@ collections:
             required: false
             widget: "boolean"
           - label: "Events"
-            name: "Events"
+            name: "events"
             i18n: duplicate
             required: false
             widget: "boolean"
           - label: "Press"
-            name: "Press"
+            name: "press"
             i18n: duplicate
             required: false
             widget: "boolean"
           - label: "Documents"
-            name: "Documents"
+            name: "documents"
             i18n: duplicate
             widget: "boolean"
             required: false
