@@ -14,23 +14,14 @@
         <NuxtLink to="/" class="menu-item item--home" prefetch>
           <span>Home</span>
         </NuxtLink>
-        <NuxtLink to="/letter" class="menu-item" prefetch>
-          <span>Letter</span>
-        </NuxtLink>
-        <NuxtLink to="/events" class="menu-item" prefetch>
-          <span>Events</span>
-        </NuxtLink>
-        <NuxtLink to="/press" class="menu-item" prefetch>
-          <span>Press</span>
-        </NuxtLink>
-        <NuxtLink to="/gallery" class="menu-item" prefetch>
-          <span>Gallery</span>
-        </NuxtLink>
-        <NuxtLink to="/documents" class="menu-item" prefetch>
-          <span>Documents</span>
-        </NuxtLink>
-        <NuxtLink to="/typography" class="menu-item" prefetch>
-          <span>typography</span>
+        <NuxtLink
+          v-for="(isActive, path) in pageNames.en"
+          :key="path"
+          :to="`/${path}`"
+          class="menu-item"
+          prefetch
+        >
+          <span>{{ path.charAt(0).toUpperCase() + path.slice(1) }}</span>
         </NuxtLink>
       </menu>
     </nav>
@@ -44,6 +35,12 @@ const route = useRoute();
 watch(route, () => {
   mobileMenuActive.value = false;
 });
+
+const { data: pageNames } = reactive(
+  await useAsyncData("pageNames", () => queryContent("/pages").findOne()),
+);
+
+console.log("pagenames", pageNames.en);
 
 function toggleMobileMenu() {
   mobileMenuActive.value = !mobileMenuActive.value;

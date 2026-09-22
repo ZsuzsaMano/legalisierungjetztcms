@@ -9,11 +9,11 @@ i18n:
   structure: multiple_folders
 
   # Required - a list of locales to show in the editor UI
-  locales: [en, de, sp]
+  locales: [en, de, sp, ar]
 
   # Optional, defaults to the first item in locales.
   # The locale to be used for fields validation and as a baseline for the entry.
-  default_locale: en
+  default_locale: de
 
 backend:
   name: git-gateway
@@ -97,11 +97,6 @@ collections:
         file: "content/pages.md"
         i18n: true
         fields:
-          - label: "Home"
-            name: "home"
-            i18n: duplicate
-            required: false
-            widget: "boolean"
           - label: "Letter"
             name: "letter"
             i18n: duplicate
