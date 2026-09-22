@@ -1,14 +1,14 @@
 ---
 en:
   letter: true
-  events: true
+  events: false
 de:
   letter: true
-  events: true
+  events: false
 sp:
   letter: true
-  events: true
+  events: false
 ar:
   letter: true
-  events: true
+  events: false
 ---
