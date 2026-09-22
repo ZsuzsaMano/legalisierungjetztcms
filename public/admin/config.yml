@@ -37,6 +37,7 @@ seo: &seo
   label: "SEO"
   widget: "object"
   collapsed: true
+  i18n: true
   fields:
     - {
         name: "metaTitle",
@@ -44,6 +45,7 @@ seo: &seo
         widget: "string",
         default: "{{ title }}",
         required: true,
+        i18n: duplicate,
       }
     - {
         name: "metaDescription",
@@ -52,14 +54,21 @@ seo: &seo
         pattern: [".{20,160}", "between 20 and 160 characters"],
         required: true,
         hint: "must be between 20 and 160 characters",
+        i18n: duplicate,
       }
-    - { name: "metaImage", label: "SEO image", widget: "image" }
+    - {
+        name: "metaImage",
+        label: "SEO image",
+        widget: "image",
+        i18n: duplicate,
+      }
     - {
         name: "keywords",
         label: "keywords",
         widget: "string",
         hint: "keywords are comma seperated",
         required: false,
+        i18n: duplicate,
       }
 
 collections:
