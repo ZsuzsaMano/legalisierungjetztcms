@@ -85,95 +85,141 @@ collections:
         i18n: true
         file: "content/pages/footer.md"
         fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "content", label: "Content", widget: "markdown" }
-      - label: "buttons"
-        name: "buttons"
+          - { name: "title", label: "Title", widget: "string", i18n: true }
+          - {
+              name: "content",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
+      - label: "pageNames"
+        name: "page names"
         file: "content/site/buttons.md"
         i18n: true
         fields:
-          - label: "next"
-            name: "next"
-            widget: "string"
-          - label: "previous"
-            name: "previous"
-            widget: "string"
-          - label: "close"
-            name: "close"
-            widget: "string"
-          - label: "article: more"
-            name: "article"
-            widget: "string"
-            default: "read more"
-          - label: "form: send"
-            name: "send"
-            widget: "string"
+          - label: "Home"
+            name: "Home"
+            widget: "boolean"
+          - label: "Letter"
+            name: "letter"
+            widget: "boolean"
+          - label: "Events"
+            name: "Events"
+            widget: "boolean"
+          - label: "Press"
+            name: "Press"
+            widget: "boolean"
+          - label: "Documents"
+            name: "Documents"
+            widget: "boolean"
 
   # SINGLE PAGES
   - name: "pages"
     label: "Pages"
+    i18n:
+      structure: single_file
     files:
       - name: "home"
         label: "Home"
+        i18n: true
         file: "content/pages/home.md"
         fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "content", label: "Content", widget: "markdown" }
+          - { name: "title", label: "Title", widget: "string", i18n: true }
+          - {
+              name: "content",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
           - *seo
       - name: "letter"
         label: "Letter"
+        i18n: true
         file: "content/pages/letter.md"
         fields:
-          - { name: "title", label: "Title", widget: "string" }
-          - { name: "content", label: "Content", widget: "markdown" }
+          - { name: "title", label: "Title", widget: "string", i18n: true }
+          - {
+              name: "content",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
       - name: "events"
         label: "Events"
+        i18n: true
         extension: json
         file: "content/pages/events.json"
         fields:
-          - { name: "title", label: "Title", widget: "string" }
+          - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
               name: "subTitle1",
               label: "subtitle 1",
               widget: "string",
+              i18n: true,
               default: "fields.title",
             }
-          - { name: "content1", label: "Content", widget: "markdown" }
+          - {
+              name: "content1",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
           - {
               name: "subTitle2",
               label: "subtitle 2",
               widget: "string",
+              i18n: true,
               default: "fields.title",
             }
-          - { name: "content2", label: "Content", widget: "markdown" }
+          - {
+              name: "content2",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
       - name: "press"
         label: "Press"
+        i18n: true
         extension: json
         file: "content/pages/press.json"
         fields:
-          - { name: "title", label: "Title", widget: "string" }
+          - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
               name: "subTitle1",
               label: "sub-title1",
               widget: "string",
+              i18n: true,
               default: "fields.title",
             }
-          - { name: "content1", label: "Content", widget: "markdown" }
+          - {
+              name: "content1",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
           - {
               name: "subTitle2",
               label: "subtitle 2",
               widget: "string",
+              i18n: true,
               default: "fields.title",
             }
-          - { name: "content2", label: "Content", widget: "markdown" }
+          - {
+              name: "content2",
+              label: "Content",
+              widget: "markdown",
+              i18n: true,
+            }
       - name: "documents"
         label: "Documents"
+        i18n: true
         extension: json
         file: "content/pages/documents.json"
         fields:
-          - { name: "title", label: "Title", widget: "string" }
+          - { name: "title", label: "Title", widget: "string", i18n: true }
       - name: "gallery"
         label: "Gallery"
+        i18n: true
         extension: json
         file: "content/pages/gallery.json"
         fields:
