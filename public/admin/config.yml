@@ -99,19 +99,29 @@ collections:
         fields:
           - label: "Home"
             name: "Home"
+            i18n: duplicate
+            required: false
             widget: "boolean"
           - label: "Letter"
             name: "letter"
+            i18n: duplicate
+            required: false
             widget: "boolean"
           - label: "Events"
             name: "Events"
+            i18n: duplicate
+            required: false
             widget: "boolean"
           - label: "Press"
             name: "Press"
+            i18n: duplicate
+            required: false
             widget: "boolean"
           - label: "Documents"
             name: "Documents"
+            i18n: duplicate
             widget: "boolean"
+            required: false
 
   # SINGLE PAGES
   - name: "pages"
