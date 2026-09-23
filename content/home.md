@@ -1,7 +1,7 @@
 ---
 en:
   title: Home
-  content: Close the Gap, Open the Borders
+  content: "## Close the Gap, Open the Borders"
   SEOmetaData:
     metaTitle: Legalisierung jetzt
     metaDescription: Close the Gap, Open the Borders
