@@ -18,6 +18,7 @@
           v-for="(isActive, path) in currentContent"
           :key="path"
           :to="`/${path}`"
+          v-show="isActive"
           class="menu-item"
           prefetch
         >
@@ -29,22 +30,25 @@
 </template>
 
 <script setup>
-const links = ["products", "dynamic-fields", "contact"];
 const mobileMenuActive = ref(false);
 const route = useRoute();
 watch(route, () => {
   mobileMenuActive.value = false;
 });
 
-const { data: pageNames } = reactive(
-  await useAsyncData("pageNames", () => queryContent("/").findOne()),
+const { data: paths, error: pathsError } = await useAsyncData("paths", () =>
+  queryContent("/paths").findOne(),
 );
 
 const { locale } = useI18n();
 
 const currentContent = computed(() => {
-  return pageNames?.[locale.value] || pageNames?.de || {};
+  return paths.value?.[locale.value] || paths.value?.de || {};
 });
+
+if (pathsError.value) {
+  console.error("Failed to load paths", pathsError.value);
+}
 
 function toggleMobileMenu() {
   mobileMenuActive.value = !mobileMenuActive.value;
