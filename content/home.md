@@ -14,7 +14,7 @@ de:
     keywords: null
   title: de
   content: de
-sp:
+es:
   SEOmetaData:
     metaTitle: Legalisierung jetzt
     metaDescription: Close the Gap, Open the Borders

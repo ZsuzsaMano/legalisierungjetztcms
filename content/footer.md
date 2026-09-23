@@ -30,7 +30,7 @@ de:
 
     Transfer reference: Legalisierungjetzt
   title: Bank Account
-sp:
+es:
   title: es
   content: |-
     Respect Berlin

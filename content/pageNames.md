@@ -3,7 +3,7 @@ en:
   letter: true
 de:
   letter: true
-sp:
+es:
   letter: true
 ar:
   letter: true

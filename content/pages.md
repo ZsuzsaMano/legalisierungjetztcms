@@ -5,7 +5,7 @@ en:
 de:
   letter: true
   events: false
-sp:
+es:
   letter: true
   events: false
 ar:
