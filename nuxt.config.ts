@@ -10,7 +10,51 @@ export default defineNuxtConfig({
       title: "Legalisierung Jetzt",
     },
   },
-  modules: ["@nuxt/content"],
+  modules: ["@nuxt/content", "@nuxtjs/i18n"],
+ i18n: {
+    // Supported locales
+    locales: [
+      { 
+        code: 'en', 
+        name: 'English', 
+        iso: 'en-US', 
+        dir: 'ltr',
+       
+      },
+      { 
+        code: 'es', 
+        name: 'Español', 
+        iso: 'es-ES', 
+        dir: 'ltr',
+     
+      },
+      { 
+        code: 'de', 
+        name: 'Deutsch', 
+        iso: 'de-DE', 
+        dir: 'ltr',
+    
+      },
+      { 
+        code: 'ar', 
+        name: 'العربية', 
+        iso: 'ar-SA', 
+        dir: 'rtl',  // Important: Arabic is RTL
+      }
+    ],
+    
+    // Default language
+    defaultLocale: 'de',
+    
+    // Routing strategy
+    strategy: 'prefix_except_default',
+    
+    // Browser language detection
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+    },
+  },
   content: {
     markdown: {
       // stop the markdownParser from turning headings into anchor tags

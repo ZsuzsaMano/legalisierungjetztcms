@@ -1,6 +1,6 @@
 <template>
   <main id="main" class="home">
-    <MDC :value="home.en.content" />
+    <MDC :value="currentContent.content" />
   </main>
 </template>
 
@@ -9,7 +9,13 @@ const { data: home } = reactive(
   await useAsyncData("home", () => queryContent("/home").findOne()),
 );
 
-setSeoHead(home.en.SEOmetaData);
+const { locale } = useI18n();
+
+const currentContent = computed(() => {
+  return home?.[locale.value] || home?.de || {};
+});
+
+setSeoHead(home[locale.value].SEOmetaData);
 </script>
 
 <style lang="scss" scoped>
