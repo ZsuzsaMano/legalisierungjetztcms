@@ -80,6 +80,7 @@ collections:
       - name: "header"
         label: "Header"
         i18n: true
+        file: "content/header.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -90,6 +91,7 @@ collections:
             }
       - name: "footer"
         label: "Footer"
+        file: "content/footer.md"
         i18n: true
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
@@ -102,6 +104,7 @@ collections:
       - label: "pageNames"
         name: "page names"
         i18n: true
+        file: "content/pageNames.md"
         fields:
           - label: "Letter"
             name: "letter"
@@ -133,6 +136,7 @@ collections:
       - name: "home"
         label: "Home"
         i18n: true
+        file: "content/home.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -145,6 +149,7 @@ collections:
       - name: "letter"
         label: "Letter"
         i18n: true
+        file: "content/letter.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -156,6 +161,7 @@ collections:
       - name: "events"
         label: "Events"
         i18n: true
+        file: "content/events.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -187,6 +193,7 @@ collections:
       - name: "press"
         label: "Press"
         i18n: true
+        file: "content/press.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
           - {
@@ -218,10 +225,12 @@ collections:
       - name: "documents"
         label: "Documents"
         i18n: true
+        file: "content/documents.md"
         fields:
           - { name: "title", label: "Title", widget: "string", i18n: true }
       - name: "gallery"
         label: "Gallery"
         i18n: true
+        file: "content/gallery.md"
         fields:
           - { name: "title", label: "Title", widget: "string" }
