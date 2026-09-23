@@ -1,9 +1,4 @@
-/* MEDIA QUERY breakpoints V3.0
-    USE: @media(*comma seperate* xsm/sm/md/lg/xlg) {
-        *styles*
-    }
-*/
-
+@use "sass:map";
 
 $min-breakpoints: (
     xsm: 0px,
@@ -23,7 +18,7 @@ $max-breakpoints: (
 //  mixin to print out media queries (based on map keys passed) 
 @mixin media($keys...) {
     @each $key in $keys {
-        @media (min-width: map-get($min-breakpoints, $key)) and (max-width: map-get($max-breakpoints, $key)) {
+        @media (min-width: map.get($min-breakpoints, $key)) and (max-width: map.get($max-breakpoints, $key)) {
             @content;
         }
     }

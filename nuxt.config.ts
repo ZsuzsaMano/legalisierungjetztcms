@@ -81,7 +81,7 @@ export default defineNuxtConfig({
       preprocessorOptions: {
         scss: {
           additionalData:
-            '@import "@/assets/scss/mixins.scss"; @import "@/assets/scss/variables.scss";',
+            '@use "~/assets/scss/mixins.scss" as *; @use "~/assets/scss/variables.scss" as *;',
         },
       },
     },
