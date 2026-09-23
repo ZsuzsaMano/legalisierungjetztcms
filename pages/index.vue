@@ -1,15 +1,15 @@
 <template>
   <main id="main" class="home">
-    <MDC :value="home.content" />
+    <MDC :value="home.en.content" />
   </main>
 </template>
 
 <script setup>
 const { data: home } = reactive(
-  await useAsyncData("home", () => queryContent("/pages/home").findOne()),
+  await useAsyncData("home", () => queryContent("/home").findOne()),
 );
 
-setSeoHead(home.SEOmetaData);
+setSeoHead(home.en.SEOmetaData);
 </script>
 
 <style lang="scss" scoped>

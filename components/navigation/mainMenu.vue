@@ -15,7 +15,7 @@
           <span>Home</span>
         </NuxtLink>
         <NuxtLink
-          v-for="(isActive, path) in pageNames.en"
+          v-for="(isActive, path) in pageNames?.en"
           :key="path"
           :to="`/${path}`"
           class="menu-item"
@@ -37,10 +37,10 @@ watch(route, () => {
 });
 
 const { data: pageNames } = reactive(
-  await useAsyncData("pageNames", () => queryContent("/pages").findOne()),
+  await useAsyncData("pageNames", () => queryContent("/").findOne()),
 );
 
-console.log("pagenames", pageNames.en);
+console.log("pagenames", pageNames?.en);
 
 function toggleMobileMenu() {
   mobileMenuActive.value = !mobileMenuActive.value;
