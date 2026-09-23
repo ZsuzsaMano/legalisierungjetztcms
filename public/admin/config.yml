@@ -101,10 +101,10 @@ collections:
               widget: "markdown",
               i18n: true,
             }
-      - label: "pageNames"
-        name: "page names"
+      - label: "paths"
+        name: "paths"
         i18n: true
-        file: "content/pageNames.md"
+        file: "content/paths.md"
         fields:
           - label: "Letter"
             name: "letter"
