@@ -11,7 +11,7 @@
   "devDependencies": {
     "@nuxt/content": "^2.8.2",
     "@types/node": "^18",
-    "nuxt": "^3.7.1",
+    "nuxt": "^4.5.2",
     "sass": "^1.62.1",
     "sass-loader": "^13.3.0",
     "webpack": "^5.84.0"
