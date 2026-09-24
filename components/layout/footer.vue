@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="content-box">
     <section>
       <h3>{{ currentContent.title3 }}</h3>
       <MDC :value="currentContent.content3" />

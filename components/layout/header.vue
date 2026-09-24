@@ -10,6 +10,7 @@
   position: relative;
   display: flex;
   justify-content: space-between;
+  background-color: $background;
   &::before {
     position: absolute;
     content: "";
