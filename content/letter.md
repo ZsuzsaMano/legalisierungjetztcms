@@ -2,8 +2,7 @@
 en:
   title: Demands -  Open letter
   content: >-
-    OPEN LETTER
-
+    
 
     To Elif Eralp as the future mayor of Berlin, as well as all politicians involved in
 
