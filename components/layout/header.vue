@@ -9,7 +9,7 @@
 #header {
   position: relative;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   &::before {
     position: absolute;
     content: "";

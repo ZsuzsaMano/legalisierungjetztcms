@@ -32,7 +32,8 @@ const currentContent = computed(() => {
 footer {
   display: flex;
   justify-content: space-between;
-
+  flex-wrap: wrap;
+  color: $grey;
   section {
     max-width: 25rem;
   }
