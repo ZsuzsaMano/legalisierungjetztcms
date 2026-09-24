@@ -2,23 +2,22 @@
   <header id="header">
     <LayoutLogo />
     <NavigationMainMenu />
+    <NavigationLocale />
   </header>
 </template>
 
 <style lang="scss" scoped>
 #header {
   position: relative;
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  grid-template-rows: 1fr;
-  padding: $spacing2;
+  display: flex;
+  justify-content: space-between;
   &::before {
     position: absolute;
     content: "";
     width: 100%;
     height: 0.1em;
     top: 100%;
-    background-image: linear-gradient(90deg, $base-color, $secondary-color);
+    background-image: linear-gradient(90deg, $base-color, $dark-grey);
   }
   @include media(xsm) {
     display: block;

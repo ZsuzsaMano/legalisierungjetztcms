@@ -11,48 +11,45 @@ export default defineNuxtConfig({
     },
   },
   modules: ["@nuxt/content", "@nuxtjs/i18n"],
- i18n: {
+  i18n: {
     // Supported locales
     locales: [
-      { 
-        code: 'en', 
-        name: 'English', 
-        iso: 'en-US', 
-        dir: 'ltr',
-       
+      {
+        code: "en",
+        name: "English",
+        iso: "en-US",
+        dir: "ltr",
       },
-      { 
-        code: 'es', 
-        name: 'Español', 
-        iso: 'es-ES', 
-        dir: 'ltr',
-     
+      {
+        code: "es",
+        name: "Español",
+        iso: "es-ES",
+        dir: "ltr",
       },
-      { 
-        code: 'de', 
-        name: 'Deutsch', 
-        iso: 'de-DE', 
-        dir: 'ltr',
-    
+      {
+        code: "de",
+        name: "Deutsch",
+        iso: "de-DE",
+        dir: "ltr",
       },
-      { 
-        code: 'ar', 
-        name: 'العربية', 
-        iso: 'ar-SA', 
-        dir: 'rtl',  // Important: Arabic is RTL
-      }
+      {
+        code: "ar",
+        name: "العربية",
+        iso: "ar-SA",
+        dir: "rtl", // Important: Arabic is RTL
+      },
     ],
-    
+
     // Default language
-    defaultLocale: 'de',
-    
+    defaultLocale: "de",
+
     // Routing strategy
-    strategy: 'prefix_except_default',
-    
+    strategy: "prefix_except_default",
+
     // Browser language detection
     detectBrowserLanguage: {
       useCookie: true,
-      cookieKey: 'i18n_redirected',
+      cookieKey: "i18n_redirected",
     },
   },
   content: {
@@ -74,7 +71,6 @@ export default defineNuxtConfig({
     "@/assets/scss/main.scss",
     "@/assets/scss/type.scss",
     "@/assets/scss/forms.scss",
-    "@/assets/scss/cards.scss",
   ],
   vite: {
     css: {

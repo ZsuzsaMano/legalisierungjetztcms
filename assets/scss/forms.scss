@@ -11,6 +11,7 @@ textarea {
     font: inherit;
     border: 0;
     outline: 0;
+    background-color: inherit;
 }
 
 
@@ -19,12 +20,12 @@ textarea {
 $form-background-color: transparent;
 $form-field-background-color: $light-grey;
 $form-dark-grey: #333;
-$form-base-color: $secondary-color;
+$form-base-color: $dark-grey;
 $form-border-color: transparent;
 $form-text-color: $black;
-$form-placeholder-color: $grey;
+$form-placeholder-color: $dark-grey;
 $form-error-color: $red;
-$form-focus-color: $secondary-color;
+$form-focus-color: $dark-grey;
 $form-valid-color: $green;
 
 
