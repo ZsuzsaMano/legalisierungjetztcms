@@ -1,6 +1,6 @@
 <template>
-  <main id="main" class="letter">
-    <h3>{{ currentContent.title }}</h3>
+  <main id="main" class="content-box">
+    <h2>{{ currentContent.title }}</h2>
     <MDC :value="currentContent.content" />
   </main>
 </template>
@@ -13,13 +13,8 @@ const { data: letter } = reactive(
 const { locale } = useI18n();
 
 const currentContent = computed(() => {
-  return letter?.[locale.value] || letter?.de || {};
+  return letter?.[locale.value] || letter?.value.de || {};
 });
 </script>
 
-<style lang="scss" scoped>
-main {
-  margin: auto;
-  max-width: 50rem;
-}
-</style>
+<style lang="scss" scoped></style>
