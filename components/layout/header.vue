@@ -2,7 +2,6 @@
   <header id="header">
     <LayoutLogo />
     <NavigationMainMenu />
-    <NavigationLocale />
   </header>
 </template>
 
@@ -10,7 +9,7 @@
 #header {
   position: relative;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   &::before {
     position: absolute;
     content: "";

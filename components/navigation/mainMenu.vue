@@ -6,14 +6,11 @@
       :class="{ mobileMenuOpen: mobileMenuActive }"
     >
       <span>&#x2630;</span>
-      MENU
     </div>
 
     <nav :class="{ mobileMenuOpen: mobileMenuActive }">
       <menu class="main-menu__basic">
-        <NuxtLink to="/" class="menu-item item--home" prefetch>
-          <span>Home</span>
-        </NuxtLink>
+        <NuxtLink to="/" class="menu-item item--home" prefetch> Home </NuxtLink>
         <NuxtLink
           v-for="(isActive, path) in currentContent"
           :key="path"
@@ -22,8 +19,9 @@
           class="menu-item"
           prefetch
         >
-          <span>{{ path.charAt(0).toUpperCase() + path.slice(1) }}</span>
+          {{ path.charAt(0).toUpperCase() + path.slice(1) }}
         </NuxtLink>
+        <NavigationLocale />
       </menu>
     </nav>
   </div>
@@ -87,21 +85,18 @@ nav {
     padding-left: 0;
   }
 
-  span {
-    padding: $spacing2;
-    width: 8em;
-    @include media(xsm) {
-      width: auto;
-    }
-  }
-
   .menu-item {
     cursor: pointer;
-    span {
-      display: block;
-      text-align: center;
-      list-style: none;
-      transition: $transition1;
+    padding: 0.6rem;
+    display: inline-block;
+    color: $grey;
+    transition: $transition1;
+    &:hover {
+      color: $base-color;
+    }
+    &.active {
+      color: $base-color;
+      font-weight: bold;
     }
 
     @include media(xsm) {

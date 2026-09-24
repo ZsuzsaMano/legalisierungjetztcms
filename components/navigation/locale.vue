@@ -4,7 +4,7 @@ const switchLocalePath = useSwitchLocalePath();
 </script>
 
 <template lang="">
-  <nav role="radiogroup" aria-label="Choose your language">
+  <section role="radiogroup" aria-label="Choose your language">
     <NuxtLink
       class="button-locale"
       v-for="l in locales"
@@ -17,15 +17,20 @@ const switchLocalePath = useSwitchLocalePath();
     >
       {{ l.code.toUpperCase() }}
     </NuxtLink>
-  </nav>
+  </section>
 </template>
 
 <style lang="scss" scoped>
+section {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
 .button-locale {
-  padding: 0.5rem;
   display: inline-block;
-  margin: 0.5rem 0px;
   color: $grey;
+  font-size: small;
+  padding: 0.3rem;
   &:hover {
     color: $base-color;
   }
