@@ -35,31 +35,14 @@ h5, .h5 {
 
 // h3, .h3,
 h4, .h4,
-h5, .h5 {
+h5, .h5,
+h6, .h6 {
 	font-family: $font-main;
 }
 
-blockquote {
-	font-size: $font-size5;
-	font-family: $font-art;
-	font-weight: bold;
-	text-align: justify;
-	text-justify: inter-word;
+h6, .h6 {
+text-transform: uppercase;
+font-size: $font-size8;
 }
 
-p {
-	font-size: $font-size7;
-	line-height: 1.45em;
-}
-
-main li {
-	margin-block: $spacing1;
-	line-height: 1.45em;
-}
-
-code {
-	background: $light-grey;
-	padding: 0 $spacing1;
-	display: inline-block;
-}
 

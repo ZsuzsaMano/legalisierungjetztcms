@@ -37,6 +37,9 @@ body::-webkit-scrollbar {
 a {
 	text-decoration: none;
 	color: inherit;
+	&:hover {
+		color: $base-color;
+	}
 }
 
 /* GRID layout with fixed header*/

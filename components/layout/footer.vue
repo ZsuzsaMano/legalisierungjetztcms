@@ -1,5 +1,20 @@
 <template>
-  <footer><MDC :value="currentContent.content" /></footer>
+  <footer>
+    <section>
+      <h3>{{ currentContent.title3 }}</h3>
+      <MDC :value="currentContent.content3" />
+
+      <NavigationLocale />
+    </section>
+    <section>
+      <h6>{{ currentContent.title }}</h6>
+      <MDC :value="currentContent.content" />
+    </section>
+    <section>
+      <h6>{{ currentContent.title2 }}</h6>
+      <MDC :value="currentContent.content2" />
+    </section>
+  </footer>
 </template>
 
 <script setup>
@@ -13,4 +28,13 @@ const currentContent = computed(() => {
 });
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+footer {
+  display: flex;
+  justify-content: space-between;
+
+  section {
+    max-width: 25rem;
+  }
+}
+</style>
