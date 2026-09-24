@@ -62,8 +62,10 @@ body * {
 
 .layout-wrapper {
 	position: relative;
-	width: 100%;
+	max-width: 90rem;
 	min-height: 100vh;
+margin:auto;
+padding:1rem;
 	
 	
 
