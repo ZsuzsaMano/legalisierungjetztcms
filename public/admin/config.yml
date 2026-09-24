@@ -99,6 +99,20 @@ collections:
               name: "content",
               label: "Content",
               widget: "markdown",
+              i18n: duplicate,
+            }
+          - { name: "title2", label: "Title 2", widget: "string", i18n: true }
+          - {
+              name: "content2",
+              label: "Content 2",
+              widget: "markdown",
+              i18n: duplicate,
+            }
+          - { name: "title3", label: "Title 3", widget: "string", i18n: true }
+          - {
+              name: "content3",
+              label: "Content 3",
+              widget: "markdown",
               i18n: true,
             }
       - label: "paths"
