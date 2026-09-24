@@ -3,387 +3,259 @@ en:
   title: Demands -  Open letter
   content: >-
     
-
     To Elif Eralp as the future mayor of Berlin, as well as all politicians involved in
-
 
     the current Berlin coalition negotiations
 
-
     FOR THE PERMANENT, UNCONDITIONAL LEGALIZATION OF ALL
-
 
     UNDOCUMENTED ILLEGALIZED MIGRANTS IN BERLIN
 
-
     We are addressing you as the "Legalization Now!" campaign. During the
-
 
     pandemic, we, as a network of collectives and organizations of migrants and
 
-
     anti-racists, advocated for the permanent and unconditional legalization of all
-
 
     migrants without residency permits in Berlin. At that time, left-wing and Green
 
-
     politicians from the then-opposition pledged their support. You, Elif Eralp, for
-
 
     example, met with us and commissioned an expert report on a Berlin City ID.
 
-
     Now, in your current governmental role, we expect you to plan and implement
-
 
     concrete measures toward the legalization of undocumented people in Berlin.
 
-
     In Berlin, an estimated 60,000 to 100,000 undocumented migrants live in
-
 
     precarious and disenfranchised conditions, constantly fearing police checks and
 
-
     deportation. They also lack adequate and equal access to healthcare,
-
 
     unbureaucratic access to the school system, the housing market, dignified
 
-
     work, and a free life. Clearly, fundamental human rights are not being realized
-
 
     for everyone living here. The exclusion from essential social rights particularly
 
-
     affects children, the elderly, and the sick without papers, as well as all those
-
 
     who care for them. As undocumented workers, they are also at increased risk
 
-
     of exploitation and violence, for example, in childcare, agriculture, cleaning,
-
 
     hospitality, and construction.
 
-
     At the same time, Berlin's service sector, in particular, relies on their invisible
-
 
     labor.The recent major campaign to regularize the immigration status of people
 
-
     without legal status in Spain has shown that our demands for legalization are
-
 
     not utopian but realistically achievable! And: These rights can be won through
 
-
     a determined civil society and implemented by a government. The Spanish
-
 
     regularization policy received support not only for human rights reasons, but
 
-
     also for economic and fiscal considerations.
-
 
     The situation of illegal immigration is a consequence of the multifaceted crises
 
-
     of global capitalism that affect us all: The destruction of resources and
-
 
     livelihoods as a result of the climate crisis and the continued colonial
 
-
     exploitation of the Global South leads to worldwide migration flows. At the
-
 
     same time, the systematic disenfranchisement of migrants provides
 
-
     exploitable, cheap labor. Instead of combating these global crises and the
-
 
     resulting extreme social inequality, migrants are demonized and criminalized
 
-
     here—not only by the fascist right but also within the framework of current
-
 
     federal and EU policies. With the introduction of the Common European Asylum
 
-
     System (CEAS) reforms, asylum rights have been further restricted, and
-
 
     repressive camp policies at the borders and outside Europe have been
 
-
     intensified. The Fortress Europe policy has already been responsible for 1,650
-
 
     deaths in the Mediterranean by August 2026.
 
-
     In times of a global shift to the right and also a racist escalation in German
-
 
     federal politics, we expect your Berlin governing coalition to take a clear and
 
-
     determined practical stand for the rights of all migrant Berliners, including
-
 
     people without papers!
 
-
     Therefore, we demand the following measures: These measures can be
-
 
     implemented at the state level or politically initiated by the state of Berlin.
 
-
     They form a package of short-, medium-, and long-term solutions that take into
-
 
     account the complexity of the life situations of undocumented people. The goal
 
-
     must be to overcome precarious and lawless residency situations, ensure
-
 
     access to social and political rights, and create lasting prospects for people
 
-
     without secure residency status in Berlin.
-
 
     1) Create collective solutions regarding residency rights!
 
-
     The state of Berlin must utilize the options provided by Section 23
-
 
     Paragraph 1 of the Residence Act for a group-based humanitarian
 
-
     residence permit. This provision allows the highest state authority to order,
-
 
     for reasons of international law, humanitarian reasons, or to safeguard
 
-
     political interests, that residence permits be granted to specific groups of
-
 
     foreigners. Berlin should initiate a corresponding admission order for the
 
-
     largest possible group of people without secure residence status.
-
 
     2) Strengthen humanitarian rights to remain in individual cases!
 
-
     In addition to collective solutions, individual humanitarian residence
-
 
     options must be strengthened. To this end, the hardship commission and
 
-
     its supporting advisory structures must be provided with sufficient
-
 
     personnel and financial resources. People in particularly vulnerable
 
-
     situations must have effective access to an individual assessment of their
-
 
     humanitarian residence permit options.
 
-
     3) Introduce a Berlin City ID and create non-discriminatory access
-
 
     to public services!Berlin must introduce a City ID, as
 
-
     recommended by an expert report commissioned by the Berlin
-
 
     Senate in 2023 and by the "Berlin Together" initiative.
 
-
     The City ID would facilitate access to services and facilities for all
-
 
     Berliners, regardless of their residency status. It should not be limited to
 
-
     services such as libraries, cultural institutions, or leisure facilities. At the
-
 
     same time, Berlin must guarantee anonymized and non-discriminatory
 
-
     access to healthcare for people without secure residency status,
-
 
     particularly through suitable electronic health card models.
 
-
     4) Abolish the denunciation paragraph 87 and create institutional
-
 
     "firewalls"!
 
-
     The state of Berlin must advocate at the federal level for the abolition or
-
 
     fundamental restriction of the reporting obligations under Section 87 of
 
-
     the Residence Act. This section requires public sector employees (with the
-
 
     exception of those in educational institutions) to report information about
 
-
     a person's illegal status to the immigration authorities.
-
 
     These reporting obligations can prevent people without secure residency
 
-
     status from accessing public services and fundamental rights. As long as
-
 
     the federal reporting obligations exist, Berlin must exhaust all legally
 
-
     available options to prevent this.To limit data transfers to immigration
-
 
     authorities to the legally required minimum and to create effective
 
-
     institutional "firewalls" between immigration authorities on the one hand
-
 
     and healthcare, social counselling, youth welfare offices and other areas of
 
-
     public services on the other.
-
 
     5)Repressive measures within the framework of the CEAS reform
 
-
     must be examined for their compliance with fundamental and
-
 
     human rights before their implementation!
 
-
     The State of Berlin must prevent the implementation of repressive
-
 
     measures within the framework of the Common European Asylum System
 
-
     (CEAS) reform in Berlin. To this end, these measures must be
-
 
     comprehensively reviewed for their compatibility with the German Basic
 
-
     Law (Constitution) and with European and international human rights. This
-
 
     applies in particular to measures involving deprivation of liberty,
 
-
     restrictions of liberty, segregation, or other significant infringements of the
-
 
     fundamental rights of refugees and migrants. In implementing these
 
-
     measures, the State of Berlin must exhaust all existing legal and
-
 
     administrative options available to protect the fundamental and human
 
-
     rights of those affected.At the same time, Berlin must advocate at the
-
 
     federal level against the expansion of deprivation of liberty under
 
-
     migration law and for the abolition of regulations that allow detention
-
 
     without a prior judicial decision. This applies in particular to Section 62
 
-
     Paragraph 5 of the Residence Act. This provision allows for temporary
-
 
     detention and custody without a prior judicial order. Berlin must advocate
 
-
     for the abolition of this regulation and, until then, ensure that its
-
 
     application strictly adheres to the constitutional, EU, and human rights
 
-
     limits on deprivation of liberty, and in particular to the requirement of a
-
 
     judicial warrant and the principle of proportionality.
 
-
     All of this is possible, and we urge swift action! The timing is crucial! This
-
 
     legislative period presents the state government with a historic opportunity to
 
-
     set the course against racism, the rise of the right, and fascism—for
-
 
     fundamental social, political, and human rights for all Berliners! Especially in
 
-
     these times, a left-wing state government must be judged by its actions on
-
 
     behalf of migration rights!
 
-
     We, as the "Legalization Now!" campaign and as a self-organized and
-
 
     independent movement, expect you to respond to these demands and contact
 
-
     us. Together with the organizations that support us, we will continue to
-
 
     advocate for these demands and press your government on them.
 
-
     PAPERS FOR EVERYONE!
-
 
     LEGALIZATION NOW!
 de:
@@ -741,420 +613,283 @@ de:
 es:
   title: CARTA ABIERTA
   content: >-
-    
+    CARTA ABIERTA
 
     Dirigida a
 
-
     Elif Eralp, futura alcaldesa de Berlín, así como a todas las personas políticas que participan
-
 
     en las actuales negociaciones para formar la coalición en Berlín
 
-
     POR LA LEGALIZACIÓN PERMANENTE E INCONDICIONAL DE TODAS LAS
-
 
     PERSONAS MIGRANTES INDOCUMENTADAS E ILEGALIZADAS EN BERLÍN
 
-
     Nos dirigimos a usted en nombre de la campaña «¡Legalización ya!». Durante la pandemia,
-
 
     como red de colectivos y organizaciones de migrantes y antirracistas, hemos abogado por
 
-
     la legalización permanente e incondicional de todas las personas migrantes sin permiso de
-
 
     residencia en Berlín. En aquel momento, políticos de Die Linke y de Bündnis 90/ die Grünen,
 
-
     que entonces formaban parte de la oposición, nos prometieron su apoyo. Usted, Elif Eralp,
-
 
     por ejemplo, se reunió con nosotres y puso en marcha un informe pericial para la creación
 
-
     de un «City ID» berlinés. Ahora que ocupa un cargo de responsabilidad en el Gobierno,
-
 
     esperamos que planifique y aplique medidas concretas encaminadas a la legalización de
 
-
     las personas indocumentadas en Berlín.
-
 
     Se estima que en Berlín viven entre 60 000 y 100 000 personas migrantes indocumentadas
 
-
     en condiciones precarias y privadas de derechos, y bajo el miedo constante a los controles
-
 
     policiales y a la deportación. Además, carecen de un acceso suficiente y en igualdad de
 
-
     condiciones a la sanidad, de un acceso sin trabas burocráticas al sistema educativo, así
-
 
     como de acceso al mercado de la vivienda, a un trabajo digno y a una vida libre. Por lo
 
-
     tanto, es evidente que los derechos humanos fundamentales no se respetan para todas las
-
 
     personas que viven aquí. La privación de los derechos sociales fundamentales afecta con
 
-
     especial dureza a les niñes, así como a las personas mayores y enfermas sin papeles, y a
-
 
     todos aquelles que las cuidan.
 
-
     Como trabajadores y trabajadoras en situación irregular, las personas sin papeles están,
-
 
     además, expuestas en mayor medida al riesgo de sufrir explotación y violencia, por ejemplo,
 
-
     en sectores como el cuidado infantil, la agricultura, la limpieza, la hostelería y la
-
 
     construcción. Al mismo tiempo, el sector de los servicios de Berlín, en particular, depende
 
-
     de esta mano de obra invisible.
-
 
     La última gran campaña de regularización de personas sin permiso de residencia en
 
-
     España ha demostrado que nuestras reivindicaciones de legalización no son una utopía,
-
 
     sino que son factibles desde el punto de vista de la política real. Y que estos derechos
 
-
     pueden conquistarse gracias a una sociedad civil decidida y ser aplicados por un Gobierno.
-
 
     La política de regularización española recibió apoyo no solo por motivos de derechos
 
-
     humanos, sino también por consideraciones económicas y fiscales.
-
 
     La situación de ilegalización es consecuencia de múltiples crisis del capitalismo global que
 
-
     nos afectan a todos: la destrucción de los recursos y los medios de subsistencia como
-
 
     consecuencia de la crisis climática y la continua explotación colonial del Sur Global
 
-
     provocan movimientos migratorios a escala mundial. Al mismo tiempo, la privación
-
 
     sistemática de derechos de las personas migrantes proporciona mano de obra barata y
 
-
     explotable. En lugar de combatir estas crisis mundiales y la extrema desigualdad social que
-
 
     las acompaña, aquí se demoniza y se criminaliza a las personas migrantes, no solo por
 
-
     parte de la derecha fascista, sino también en el marco de la política actual del Gobierno
-
 
     federal y de la UE.
 
-
     Con la introducción de las reformas del SECA-sistema eruopeo común de asilo (GEAS, por
-
 
     sus siglas en alemán), se han restringido aún más los derechos de asilo y se ha impulsado
 
-
     una política represiva de centros de acogida tanto en las fronteras como fuera de Europa.
-
 
     La política de la «Fortaleza Europa» ya ha causado en el año 2026 hasta agosto, 1.650
 
-
     muertes en el Mediterráneo.
-
 
     En tiempos de un giro global hacia la derecha y de una escalada racista en la política federal
 
-
     alemana, esperamos de su coalición de Gobierno de Berlín un compromiso claro, decidido
-
 
     y concreto con los derechos de todas las personas migrantes de Berlín, ¡incluidas las
 
-
     personas indocumentadas!
-
 
     Por ello, exigimos las siguientes medidas que puedan aplicarse a nivel regional o que el
 
-
     Estado federal de Berlín pueda impulsar políticamente. Constituyen un conjunto de
-
 
     soluciones a corto, mediano y largo plazo que tienen en cuenta la complejidad de las
 
-
     situaciones vitales de las personas en situación irregular. El objetivo debe ser superar las
-
 
     situaciones de residencia precarias y sin derechos, garantizar el acceso a los derechos
 
-
     sociales y políticos y crear perspectivas duraderas para las personas sin un estatus de
-
 
     residencia seguro en Berlín.
 
-
     1) ¡Crear soluciones colectivas en materia de derecho de residencia!
-
 
     El Estado federal de Berlín debe hacer uso de las posibilidades que ofrece el artículo
 
-
     23, apartado 1, de la Ley de Residencia (AufenthG, por sus siglas en alemán) para
-
 
     establecer un régimen de residencia humanitario colectivo. Esta disposición permite
 
-
     a la máxima autoridad regional ordenar, por motivos de derecho internacional o
-
 
     humanitarios, o para salvaguardar intereses políticos, que se conceda un permiso
 
-
     de residencia a determinados grupos de extranjeres. Berlín debe poner en marcha
-
 
     una orden de acogida correspondiente para un grupo lo más amplio posible de
 
-
     personas sin estatus de residencia garantizado.
-
 
     2) Reforzar los derechos de permanencia en casos concretos por motivos
 
-
     humanitarios
-
 
     Además de las soluciones colectivas, es necesario reforzar las posibilidades
 
-
     individuales de permanencia por motivos humanitarios. Para ello, es imprescindible
-
 
     dotar a la Comisión de casos excepcionales y a las estructuras de asesoramiento
 
-
     que la respaldan de recursos humanos y financieros suficientes. Las personas que
-
 
     se encuentran en situaciones de especial vulnerabilidad deben tener un acceso
 
-
     efectivo a una evaluación individual de las posibilidades de permanencia por motivos
-
 
     humanitarios.
 
-
     3) Introducir la City-ID Berlín y garantizar un acceso sin discriminación a los
-
 
     servicios públicos esenciales
 
-
     Berlín debe introducir una City-ID, tal y como recomiendan tanto un informe
-
 
     encargado por el Senado de Berlín en 2023 como la iniciativa «Berlin zusammen».
 
-
     La City-ID facilita a todas las personas de Berlín, independientemente de su situación
-
 
     migratoria, el acceso a los servicios y las instalaciones. La City-ID no debe limitarse
 
-
     a ofertas como bibliotecas, centros culturales o de ocio. Al mismo tiempo, Berlín debe
-
 
     garantizar un acceso anónimo y no discriminatorio a la asistencia sanitaria para las
 
-
     personas sin situación regular de residencia, en particular mediante modelos
-
 
     adecuados de tarjeta sanitaria electrónica.
 
-
     4) Derogar el artículo 87 que incita a denunciar y crear «Firewalls» institucionales
-
 
     El Estado federado de Berlín debe abogar a nivel federal por la derogación o la
 
-
     restricción fundamental de las obligaciones de comunicación previstas en el artículo
-
 
     87 de la Ley de Residencia (AufenthG). Este artículo exige a los empleados de la
 
-
     administración pública (con excepción de los centros educativos) que transmitan a
-
 
     las autoridades de extranjería la información sobre la situación irregular de una
 
-
     persona. Estas obligaciones de transmisión pueden impedir a las personas sin
-
 
     estatus de residencia seguro a hacer uso de los servicios públicos y de sus derechos
 
-
     fundamentales. Mientras sigan vigentes las obligaciones de comunicación
-
 
     establecidas por la legislación federal, Berlín debe aprovechar al máximo todos los
 
-
     márgenes de maniobra legales existentes para limitar las transmisiones de datos a
-
 
     las autoridades de extranjería al mínimo estrictamente exigido por la ley y crear
 
-
     «Firewalls» institucionales eficaces entre, por un lado, las autoridades de extranjería
-
 
     y, por otro, la asistencia sanitaria, el asesoramiento social, los servicios de protección
 
-
     de menores y otros ámbitos de los servicios públicos esenciales.
-
 
     5) Evaluar, antes de su aplicación, si las medidas represivas en el marco de la
 
-
     reforma del SECA (GEAS) son conformes con los derechos fundamentales y los
-
 
     derechos humanos
 
-
     El Estado federado de Berlín debe impedir que se apliquen en Berlín medidas
-
 
     represivas en el marco de la reforma del SECA. Para ello, es necesario evaluar
 
-
     exhaustivamente la compatibilidad de dichas medidas con la constitución
-
 
     (Grundgesetz), así como con los derechos humanos europeos e internacionales. Esto
 
-
     se aplica, en particular, a las medidas que impliquen privación de libertad,
-
 
     restricciones de libertad, segregación u otras injerencias significativas en los derechos
 
-
     fundamentales de las personas refugiadas y migrantes. El Estado federado de Berlín
-
 
     debe aprovechar al máximo, durante la aplicación, todos los márgenes de maniobra
 
-
     existentes en la legislación regional y administrativa en favor de los derechos
-
 
     fundamentales y los derechos humanos de las personas afectadas. Al mismo tiempo,
 
-
     Berlín debe abogar a nivel federal contra la ampliación de las privaciones de libertad
-
 
     en el ámbito del Derecho de extranjería y a favor de la supresión de las normas que
 
-
     permiten la detención sin resolución judicial previa.
-
 
     Esto afecta, en particular, al artículo 62, apartado 5, de la Ley de Residencia
 
-
     (AufenthG). Esta disposición permite la detención provisional y el internamiento sin
-
 
     orden judicial previa. Berlín debe abogar por la derogación de esta normativa y, hasta
 
-
     entonces, garantizar que, en su aplicación, se respeten estrictamente los límites
-
 
     constitucionales, de la Unión Europea y de los derechos humanos en materia de
 
-
     privación de libertad, así como, en particular, la reserva judicial y el principio de
-
 
     proporcionalidad.
 
-
     ¡Todo esto es posible y pedimos que se actúe con rapidez!
-
 
     ¡Este momento es decisivo! Con esta legislatura, el Gobierno regional tiene la oportunidad
 
-
     histórica de marcar el rumbo contra el racismo, la extrema derecha y la fascistización, ¡en
-
 
     favor de los derechos sociales y políticos así como humanos fundamentales para todas,
 
-
     todes y todos les berlineses! Precisamente en estos tiempos, ¡un Gobierno regional de
-
 
     izquierdas debe ser juzgado por sus acciones en defensa de los derechos de las, les y los
 
-
     migrantes!
-
 
     Nosotres, como campaña «¡Legalización ya!» y como movimiento autoorganizado y que
 
-
     habla por sí mismo, esperamos que nos den una respuesta a estas reivindicaciones y se
-
 
     pongan en contacto con nosotres. Junto con las organizaciones que nos apoyan,
 
-
     seguiremos defendiendo estas reivindicaciones y exigiéndolas a su Gobierno.
-
 
     ¡Papeles para todas, todes y todos!
 
-
-    ¡LEGALI
+    ¡LEGALIZACIÓN YA!
 ar:
   title: Demands -  Open letter
   content: >-
