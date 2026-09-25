@@ -248,3 +248,16 @@ collections:
         file: "content/gallery.md"
         fields:
           - { name: "title", label: "Title", widget: "string" }
+  - name: "signatures"
+    label: "Signatures"
+    i18n:
+      structure: single_file
+    folder: "content/signatures"
+    create: true
+    fields:
+      - {
+          name: "organisation",
+          label: "Organisation",
+          widget: "string",
+          i18n: duplicate,
+        }
