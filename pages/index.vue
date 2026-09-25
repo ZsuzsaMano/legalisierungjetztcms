@@ -1,6 +1,16 @@
 <template>
-  <main id="main" class="home">
-    <MDC :value="currentContent.content" />
+  <main id="main" class="content-box">
+    <section>
+      <h1>{{ currentContent.title }}</h1>
+      <MDC :value="currentContent.content" />
+      <NuxtLink>
+        {{ currentContent.button }}
+        <Icon name="material-symbols:arrow-outward-rounded" size="1.2rem" />
+      </NuxtLink>
+    </section>
+    <section>
+      <img :src="currentContent.Image" alt="men with flag" />
+    </section>
   </main>
 </template>
 
@@ -20,7 +30,15 @@ setSeoHead(home[locale.value].SEOmetaData);
 
 <style lang="scss" scoped>
 main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
   // assets/scss/mixins
   @include fade-in;
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 </style>
