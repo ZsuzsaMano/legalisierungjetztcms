@@ -1,8 +1,9 @@
 <template>
-  <main id="main" class="content-box">
+  <section id="main" class="content-box">
     <h2>{{ currentContent.title }}</h2>
     <MDC :value="currentContent.content" />
-  </main>
+  </section>
+  <Signatures />
 </template>
 
 <script setup>
