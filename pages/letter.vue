@@ -17,4 +17,8 @@ const currentContent = computed(() => {
 });
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+main {
+  padding: 0rem 2rem;
+}
+</style>
