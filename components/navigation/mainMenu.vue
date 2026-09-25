@@ -23,7 +23,7 @@
         </NuxtLink>
         <NavigationLocale />
         <NuxtLink
-          :to="currentHeaderContent.link"
+          :to="currentHeaderContent.url"
           class="menu-item"
           style="font-size: small"
         >
