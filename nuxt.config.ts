@@ -10,7 +10,7 @@ export default defineNuxtConfig({
       title: "Legalisierung Jetzt",
     },
   },
-  modules: ["@nuxt/content", "@nuxtjs/i18n"],
+  modules: ["@nuxt/content", "@nuxtjs/i18n", "@nuxt/icon"],
   i18n: {
     // Supported locales
     locales: [

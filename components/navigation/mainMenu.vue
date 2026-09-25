@@ -10,7 +10,7 @@
 
     <nav :class="{ mobileMenuOpen: mobileMenuActive }">
       <menu class="main-menu__basic">
-        <NuxtLink to="/" class="menu-item item--home" prefetch> Home </NuxtLink>
+        <NuxtLink to="/" class="menu-item" prefetch> Home </NuxtLink>
         <NuxtLink
           v-for="(isActive, path) in currentContent"
           :key="path"
@@ -22,6 +22,14 @@
           {{ path.charAt(0).toUpperCase() + path.slice(1) }}
         </NuxtLink>
         <NavigationLocale />
+        <NuxtLink
+          :to="currentHeaderContent.link"
+          class="menu-item"
+          style="font-size: small"
+        >
+          {{ currentHeaderContent.text }}
+          <Icon name="material-symbols:arrow-outward-rounded" size="1.2rem" />
+        </NuxtLink>
       </menu>
     </nav>
   </div>
@@ -38,10 +46,18 @@ const { data: paths, error: pathsError } = await useAsyncData("paths", () =>
   queryContent("/paths").findOne(),
 );
 
+const { data: header } = await useAsyncData("header", () =>
+  queryContent("/header").findOne(),
+);
+
 const { locale } = useI18n();
 
 const currentContent = computed(() => {
   return paths.value?.[locale.value] || paths.value?.de || {};
+});
+
+const currentHeaderContent = computed(() => {
+  return header.value?.[locale.value] || header.value?.de || {};
 });
 
 if (pathsError.value) {
@@ -87,7 +103,7 @@ nav {
 
   .menu-item {
     cursor: pointer;
-    padding: 0.6rem;
+    padding: 0rem 0.6rem;
     display: inline-block;
     color: $grey;
     transition: $transition1;

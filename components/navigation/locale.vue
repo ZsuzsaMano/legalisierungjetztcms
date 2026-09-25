@@ -24,7 +24,7 @@ const switchLocalePath = useSwitchLocalePath();
 section {
   display: flex;
   align-items: center;
-  margin-left: 1rem;
+  margin: 0rem 2rem;
 }
 .button-locale {
   display: inline-block;
