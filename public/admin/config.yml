@@ -82,13 +82,9 @@ collections:
         i18n: true
         file: "content/header.md"
         fields:
-          - { name: "title", label: "Title", widget: "string", i18n: true }
-          - {
-              name: "content",
-              label: "Content",
-              widget: "markdown",
-              i18n: true,
-            }
+          - { name: "text", label: "LinkText", widget: "string", i18n: true }
+          - { name: "url", label: "Url", widget: "string", i18n: duplicate }
+
       - name: "footer"
         label: "Footer"
         file: "content/footer.md"
