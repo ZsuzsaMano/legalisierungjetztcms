@@ -155,6 +155,13 @@ collections:
               widget: "markdown",
               i18n: true,
             }
+          - {
+              name: "button",
+              label: "Button Text",
+              widget: "string",
+              i18n: true,
+            }
+          - { name: "Image", label: "Image", widget: "image", i18n: duplicate }
           - *seo
       - name: "letter"
         label: "Letter"
