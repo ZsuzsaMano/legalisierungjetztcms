@@ -124,7 +124,7 @@ en:
     without secure residency status in Berlin.
 
 
-    1. Create collective solutions regarding residency rights!
+    1. **Create collective solutions regarding residency rights!**
        The state of Berlin must utilize the options provided by Section 23
        Paragraph 1 of the Residence Act for a group-based humanitarian
        residence permit. This provision allows the highest state authority to order,
@@ -132,25 +132,25 @@ en:
        political interests, that residence permits be granted to specific groups of
        foreigners. Berlin should initiate a corresponding admission order for the
        largest possible group of people without secure residence status.
-    2. Strengthen humanitarian rights to remain in individual cases!
+    2. **Strengthen humanitarian rights to remain in individual cases!**
        In addition to collective solutions, individual humanitarian residence
        options must be strengthened. To this end, the hardship commission and
        its supporting advisory structures must be provided with sufficient
        personnel and financial resources. People in particularly vulnerable
        situations must have effective access to an individual assessment of their
        humanitarian residence permit options.
-    3. Introduce a Berlin City ID and create non-discriminatory access
-       to public services!Berlin must introduce a City ID, as
+    3. **Introduce a Berlin City ID and create non-discriminatory access
+       to public services! Berlin must introduce a City ID, as
        recommended by an expert report commissioned by the Berlin
-       Senate in 2023 and by the "Berlin Together" initiative.
+       Senate in 2023 and by the "Berlin Together" initiative.**
        The City ID would facilitate access to services and facilities for all
        Berliners, regardless of their residency status. It should not be limited to
        services such as libraries, cultural institutions, or leisure facilities. At the
        same time, Berlin must guarantee anonymized and non-discriminatory
        access to healthcare for people without secure residency status,
        particularly through suitable electronic health card models.
-    4. Abolish the denunciation paragraph 87 and create institutional
-       "firewalls"!
+    4. **Abolish the denunciation paragraph 87 and create institutional
+       "firewalls"!**
        The state of Berlin must advocate at the federal level for the abolition or
        fundamental restriction of the reporting obligations under Section 87 of
        the Residence Act. This section requires public sector employees (with the
