@@ -258,6 +258,7 @@ en:
     PAPERS FOR EVERYONE!
 
     LEGALIZATION NOW!
+  signtitle: First Signatories
 de:
   title: OFFENER BRIEF
   content: >-
@@ -493,6 +494,7 @@ de:
     PAPIERE FÜR ALLE!
 
     LEGALISIERUNG JETZT!
+  signtitle: Erstunterzeichnende
 es:
   title: CARTA ABIERTA
   content: >-
@@ -772,6 +774,7 @@ es:
     ¡Papeles para todas, todes y todos!
 
     ¡LEGALIZACIÓN YA!
+  signtitle: Primeros firmantes
 ar:
   title: Demands -  Open letter
   content: >-
@@ -1185,4 +1188,5 @@ ar:
 
 
     !ية النب وةسق تشال
+  signtitle: ar
 ---
