@@ -33,11 +33,13 @@ const props = defineProps({
 </script>
 <style scoped>
 ul {
-  display: flex;
+  column-width: 15rem;
+  list-style-position: inside;
+  padding: 0;
 }
 
 li {
-  margin: 2rem;
   list-style: none;
+  margin-bottom: 1rem;
 }
 </style>

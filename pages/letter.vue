@@ -19,5 +19,3 @@ const currentContent = computed(() => {
   return letter?.[locale.value] || letter?.value.de || {};
 });
 </script>
-
-<style lang="scss" scoped></style>
