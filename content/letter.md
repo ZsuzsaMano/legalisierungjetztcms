@@ -203,9 +203,9 @@ en:
     advocate for these demands and press your government on them.
 
 
-    ### **PAPERS FOR EVERYONE!
+    ### PAPERS FOR EVERYONE!
 
-    LEGALIZATION NOW!**
+    LEGALIZATION NOW!
   signtitle: First Signatories
 de:
   title: OFFENER BRIEF
@@ -374,7 +374,6 @@ de:
        und menschenrechtlichen Grenzen von Freiheitsentziehungen sowie insbesondere der
        Richtervorbehalt und der Verhältnismäßigkeitsgrundsatz strikt gewahrt werden.
 
-
     All dies ist möglich und wir fordern zum schnellen Handeln auf! Der aktuelle Zeitpunkt ist
 
     entscheidend! Mit dieser Legislaturperiode gibt es für die Landesregierung die historische Möglichkeit,
@@ -386,7 +385,6 @@ de:
     Landesregierung an ihren Taten für Migrationsrechte gemessen werden!
 
 
-
     Wir als Kampagne Legalisierung Jetzt! und als selbstorganisierte und für sich selbst sprechende
 
     Bewegung erwarten, dass Sie uns auf diese Forderungen ein Antwort geben und mit uns in Kontakt
@@ -396,7 +394,7 @@ de:
     auch weiter eintreten und sie gegenüber Ihrer Regierung einfordern.
 
 
-    ### 
+
 
     PAPIERE FÜR ALLE!
 
