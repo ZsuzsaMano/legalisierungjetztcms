@@ -403,16 +403,19 @@ de:
 es:
   title: CARTA ABIERTA
   content: >-
-    
     Dirigida a
 
     Elif Eralp, futura alcaldesa de Berlín, así como a todas las personas políticas que participan
 
     en las actuales negociaciones para formar la coalición en Berlín
 
-    POR LA LEGALIZACIÓN PERMANENTE E INCONDICIONAL DE TODAS LAS
 
-    PERSONAS MIGRANTES INDOCUMENTADAS E ILEGALIZADAS EN BERLÍN
+
+    **POR LA LEGALIZACIÓN PERMANENTE E INCONDICIONAL DE TODAS LAS
+
+    PERSONAS MIGRANTES INDOCUMENTADAS E ILEGALIZADAS EN BERLÍN**
+
+
 
     Nos dirigimos a usted en nombre de la campaña «¡Legalización ya!». Durante la pandemia,
 
@@ -432,6 +435,8 @@ es:
 
     las personas indocumentadas en Berlín.
 
+
+
     Se estima que en Berlín viven entre 60 000 y 100 000 personas migrantes indocumentadas
 
     en condiciones precarias y privadas de derechos, y bajo el miedo constante a los controles
@@ -450,6 +455,8 @@ es:
 
     todos aquelles que las cuidan.
 
+
+
     Como trabajadores y trabajadoras en situación irregular, las personas sin papeles están,
 
     además, expuestas en mayor medida al riesgo de sufrir explotación y violencia, por ejemplo,
@@ -459,6 +466,8 @@ es:
     construcción. Al mismo tiempo, el sector de los servicios de Berlín, en particular, depende
 
     de esta mano de obra invisible.
+
+
 
     La última gran campaña de regularización de personas sin permiso de residencia en
 
@@ -471,6 +480,8 @@ es:
     La política de regularización española recibió apoyo no solo por motivos de derechos
 
     humanos, sino también por consideraciones económicas y fiscales.
+
+
 
     La situación de ilegalización es consecuencia de múltiples crisis del capitalismo global que
 
@@ -490,6 +501,8 @@ es:
 
     federal y de la UE.
 
+
+
     Con la introducción de las reformas del SECA-sistema eruopeo común de asilo (GEAS, por
 
     sus siglas en alemán), se han restringido aún más los derechos de asilo y se ha impulsado
@@ -500,6 +513,8 @@ es:
 
     muertes en el Mediterráneo.
 
+
+
     En tiempos de un giro global hacia la derecha y de una escalada racista en la política federal
 
     alemana, esperamos de su coalición de Gobierno de Berlín un compromiso claro, decidido
@@ -508,7 +523,9 @@ es:
 
     personas indocumentadas!
 
-    Por ello, exigimos las siguientes medidas que puedan aplicarse a nivel regional o que el
+
+
+    **Por ello, exigimos las siguientes medidas** que puedan aplicarse a nivel regional o que el
 
     Estado federal de Berlín pueda impulsar políticamente. Constituyen un conjunto de
 
@@ -522,137 +539,74 @@ es:
 
     residencia seguro en Berlín.
 
-    1) ¡Crear soluciones colectivas en materia de derecho de residencia!
 
-    El Estado federal de Berlín debe hacer uso de las posibilidades que ofrece el artículo
+    1. **¡Crear soluciones colectivas en materia de derecho de residencia!**
+       El Estado federal de Berlín debe hacer uso de las posibilidades que ofrece el artículo
+       23, apartado 1, de la Ley de Residencia (AufenthG, por sus siglas en alemán) para
+       establecer un régimen de residencia humanitario colectivo. Esta disposición permite
+       a la máxima autoridad regional ordenar, por motivos de derecho internacional o
+       humanitarios, o para salvaguardar intereses políticos, que se conceda un permiso
+       de residencia a determinados grupos de extranjeres. Berlín debe poner en marcha
+       una orden de acogida correspondiente para un grupo lo más amplio posible de
+       personas sin estatus de residencia garantizado.
+    2. **Reforzar los derechos de permanencia en casos concretos por motivos
+       humanitarios**
+       Además de las soluciones colectivas, es necesario reforzar las posibilidades
+       individuales de permanencia por motivos humanitarios. Para ello, es imprescindible
+       dotar a la Comisión de casos excepcionales y a las estructuras de asesoramiento
+       que la respaldan de recursos humanos y financieros suficientes. Las personas que
+       se encuentran en situaciones de especial vulnerabilidad deben tener un acceso
+       efectivo a una evaluación individual de las posibilidades de permanencia por motivos
+       humanitarios.
+    3. I**ntroducir la City-ID Berlín y garantizar un acceso sin discriminación a los
+       servicios públicos esenciales**
+       Berlín debe introducir una City-ID, tal y como recomiendan tanto un informe
+       encargado por el Senado de Berlín en 2023 como la iniciativa «Berlin zusammen».
+       La City-ID facilita a todas las personas de Berlín, independientemente de su situación
+       migratoria, el acceso a los servicios y las instalaciones. La City-ID no debe limitarse
+       a ofertas como bibliotecas, centros culturales o de ocio. Al mismo tiempo, Berlín debe
+       garantizar un acceso anónimo y no discriminatorio a la asistencia sanitaria para las
+       personas sin situación regular de residencia, en particular mediante modelos
+       adecuados de tarjeta sanitaria electrónica.
+    4. **Derogar el artículo 87 que incita a denunciar y crear «Firewalls» institucionales**
+       El Estado federado de Berlín debe abogar a nivel federal por la derogación o la
+       restricción fundamental de las obligaciones de comunicación previstas en el artículo
+       87 de la Ley de Residencia (AufenthG). Este artículo exige a los empleados de la
+       administración pública (con excepción de los centros educativos) que transmitan a
+       las autoridades de extranjería la información sobre la situación irregular de una
+       persona. Estas obligaciones de transmisión pueden impedir a las personas sin
+       estatus de residencia seguro a hacer uso de los servicios públicos y de sus derechos
+       fundamentales. Mientras sigan vigentes las obligaciones de comunicación
+       establecidas por la legislación federal, Berlín debe aprovechar al máximo todos los
+       márgenes de maniobra legales existentes para limitar las transmisiones de datos a
+       las autoridades de extranjería al mínimo estrictamente exigido por la ley y crear
+       «Firewalls» institucionales eficaces entre, por un lado, las autoridades de extranjería
+       y, por otro, la asistencia sanitaria, el asesoramiento social, los servicios de protección
+       de menores y otros ámbitos de los servicios públicos esenciales.
+    5. **Evaluar, antes de su aplicación, si las medidas represivas en el marco de la
+       reforma del SECA (GEAS) son conformes con los derechos fundamentales y los
+       derechos humanos**
+       El Estado federado de Berlín debe impedir que se apliquen en Berlín medidas
+       represivas en el marco de la reforma del SECA. Para ello, es necesario evaluar
+       exhaustivamente la compatibilidad de dichas medidas con la constitución
+       (Grundgesetz), así como con los derechos humanos europeos e internacionales. Esto
+       se aplica, en particular, a las medidas que impliquen privación de libertad,
+       restricciones de libertad, segregación u otras injerencias significativas en los derechos
+       fundamentales de las personas refugiadas y migrantes. El Estado federado de Berlín
+       debe aprovechar al máximo, durante la aplicación, todos los márgenes de maniobra
+       existentes en la legislación regional y administrativa en favor de los derechos
+       fundamentales y los derechos humanos de las personas afectadas. Al mismo tiempo,
+       Berlín debe abogar a nivel federal contra la ampliación de las privaciones de libertad
+       en el ámbito del Derecho de extranjería y a favor de la supresión de las normas que
+       permiten la detención sin resolución judicial previa.
+       Esto afecta, en particular, al artículo 62, apartado 5, de la Ley de Residencia
+       (AufenthG). Esta disposición permite la detención provisional y el internamiento sin
+       orden judicial previa. Berlín debe abogar por la derogación de esta normativa y, hasta
+       entonces, garantizar que, en su aplicación, se respeten estrictamente los límites
+       constitucionales, de la Unión Europea y de los derechos humanos en materia de
+       privación de libertad, así como, en particular, la reserva judicial y el principio de
+       proporcionalidad.
 
-    23, apartado 1, de la Ley de Residencia (AufenthG, por sus siglas en alemán) para
-
-    establecer un régimen de residencia humanitario colectivo. Esta disposición permite
-
-    a la máxima autoridad regional ordenar, por motivos de derecho internacional o
-
-    humanitarios, o para salvaguardar intereses políticos, que se conceda un permiso
-
-    de residencia a determinados grupos de extranjeres. Berlín debe poner en marcha
-
-    una orden de acogida correspondiente para un grupo lo más amplio posible de
-
-    personas sin estatus de residencia garantizado.
-
-    2) Reforzar los derechos de permanencia en casos concretos por motivos
-
-    humanitarios
-
-    Además de las soluciones colectivas, es necesario reforzar las posibilidades
-
-    individuales de permanencia por motivos humanitarios. Para ello, es imprescindible
-
-    dotar a la Comisión de casos excepcionales y a las estructuras de asesoramiento
-
-    que la respaldan de recursos humanos y financieros suficientes. Las personas que
-
-    se encuentran en situaciones de especial vulnerabilidad deben tener un acceso
-
-    efectivo a una evaluación individual de las posibilidades de permanencia por motivos
-
-    humanitarios.
-
-    3) Introducir la City-ID Berlín y garantizar un acceso sin discriminación a los
-
-    servicios públicos esenciales
-
-    Berlín debe introducir una City-ID, tal y como recomiendan tanto un informe
-
-    encargado por el Senado de Berlín en 2023 como la iniciativa «Berlin zusammen».
-
-    La City-ID facilita a todas las personas de Berlín, independientemente de su situación
-
-    migratoria, el acceso a los servicios y las instalaciones. La City-ID no debe limitarse
-
-    a ofertas como bibliotecas, centros culturales o de ocio. Al mismo tiempo, Berlín debe
-
-    garantizar un acceso anónimo y no discriminatorio a la asistencia sanitaria para las
-
-    personas sin situación regular de residencia, en particular mediante modelos
-
-    adecuados de tarjeta sanitaria electrónica.
-
-    4) Derogar el artículo 87 que incita a denunciar y crear «Firewalls» institucionales
-
-    El Estado federado de Berlín debe abogar a nivel federal por la derogación o la
-
-    restricción fundamental de las obligaciones de comunicación previstas en el artículo
-
-    87 de la Ley de Residencia (AufenthG). Este artículo exige a los empleados de la
-
-    administración pública (con excepción de los centros educativos) que transmitan a
-
-    las autoridades de extranjería la información sobre la situación irregular de una
-
-    persona. Estas obligaciones de transmisión pueden impedir a las personas sin
-
-    estatus de residencia seguro a hacer uso de los servicios públicos y de sus derechos
-
-    fundamentales. Mientras sigan vigentes las obligaciones de comunicación
-
-    establecidas por la legislación federal, Berlín debe aprovechar al máximo todos los
-
-    márgenes de maniobra legales existentes para limitar las transmisiones de datos a
-
-    las autoridades de extranjería al mínimo estrictamente exigido por la ley y crear
-
-    «Firewalls» institucionales eficaces entre, por un lado, las autoridades de extranjería
-
-    y, por otro, la asistencia sanitaria, el asesoramiento social, los servicios de protección
-
-    de menores y otros ámbitos de los servicios públicos esenciales.
-
-    5) Evaluar, antes de su aplicación, si las medidas represivas en el marco de la
-
-    reforma del SECA (GEAS) son conformes con los derechos fundamentales y los
-
-    derechos humanos
-
-    El Estado federado de Berlín debe impedir que se apliquen en Berlín medidas
-
-    represivas en el marco de la reforma del SECA. Para ello, es necesario evaluar
-
-    exhaustivamente la compatibilidad de dichas medidas con la constitución
-
-    (Grundgesetz), así como con los derechos humanos europeos e internacionales. Esto
-
-    se aplica, en particular, a las medidas que impliquen privación de libertad,
-
-    restricciones de libertad, segregación u otras injerencias significativas en los derechos
-
-    fundamentales de las personas refugiadas y migrantes. El Estado federado de Berlín
-
-    debe aprovechar al máximo, durante la aplicación, todos los márgenes de maniobra
-
-    existentes en la legislación regional y administrativa en favor de los derechos
-
-    fundamentales y los derechos humanos de las personas afectadas. Al mismo tiempo,
-
-    Berlín debe abogar a nivel federal contra la ampliación de las privaciones de libertad
-
-    en el ámbito del Derecho de extranjería y a favor de la supresión de las normas que
-
-    permiten la detención sin resolución judicial previa.
-
-    Esto afecta, en particular, al artículo 62, apartado 5, de la Ley de Residencia
-
-    (AufenthG). Esta disposición permite la detención provisional y el internamiento sin
-
-    orden judicial previa. Berlín debe abogar por la derogación de esta normativa y, hasta
-
-    entonces, garantizar que, en su aplicación, se respeten estrictamente los límites
-
-    constitucionales, de la Unión Europea y de los derechos humanos en materia de
-
-    privación de libertad, así como, en particular, la reserva judicial y el principio de
-
-    proporcionalidad.
 
     ¡Todo esto es posible y pedimos que se actúe con rapidez!
 
@@ -668,6 +622,8 @@ es:
 
     migrantes!
 
+
+
     Nosotres, como campaña «¡Legalización ya!» y como movimiento autoorganizado y que
 
     habla por sí mismo, esperamos que nos den una respuesta a estas reivindicaciones y se
@@ -675,6 +631,9 @@ es:
     pongan en contacto con nosotres. Junto con las organizaciones que nos apoyan,
 
     seguiremos defendiendo estas reivindicaciones y exigiéndolas a su Gobierno.
+
+
+    ### 
 
     ¡Papeles para todas, todes y todos!
 
