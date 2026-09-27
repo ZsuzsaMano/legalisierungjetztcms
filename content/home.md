@@ -1,7 +1,7 @@
 ---
 en:
   title: Close the gap, Open the Borders
-  content: We demand the legalization of all undocumented migrants in Germany
+  content: We demand the legalization of all undocumented migrants in Berlin
   SEOmetaData:
     metaTitle: Legalisierung jetzt
     metaDescription: Close the Gap, Open the Borders
@@ -15,9 +15,8 @@ de:
     metaImage: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
     keywords: null
   title: Close the gap, Open the Borders
-  content: >+
-    Wir fordern die Legalisierung aller Migrant*innen ohne Papiere in
-    Deutschland
+  content: |+
+    Wir fordern die Legalisierung aller Migrant*innen ohne Papiere in Berlin
 
   Image: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
   button: Zum offenen Brief
