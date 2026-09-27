@@ -205,7 +205,8 @@ en:
 
     ### PAPERS FOR EVERYONE!
 
-    LEGALIZATION NOW!
+
+    ### LEGALIZATION NOW!
   signtitle: First Signatories
 de:
   title: OFFENER BRIEF
@@ -394,9 +395,7 @@ de:
     auch weiter eintreten und sie gegenüber Ihrer Regierung einfordern.
 
 
-
-
-    PAPIERE FÜR ALLE!
+    ### PAPIERE FÜR ALLE!
 
     LEGALISIERUNG JETZT!
   signtitle: Erstunterzeichnende
