@@ -227,11 +227,9 @@ de:
     Koalitionsverhandlungen beteiligten Politikerinnen
 
 
-
     **FÜR DIE DAUERHAFTE, BEDINGUNGSLOSE LEGALISIERUNG ALLER UNDOKUMENTIERTEN
 
     ILLEGALISIERTEN MIGRANTISCHEN PERSONEN IN BERLIN**
-
 
 
     Wir richten uns an Sie als Kampagne „Legalisierung-Jetzt!“ Während der Pandemie haben wir uns als
@@ -249,7 +247,6 @@ de:
     Regierungsverantwortung erwarten wir nun, dass Sie konkrete Maßnahmen in Richtung Legalisierung
 
     von Menschen ohne Papiere in Berlin planen und umsetzen.
-
 
 
     In Berlin leben schätzungsweise zwischen 60.000 und 100.000 migrantische Personen ohne
@@ -277,7 +274,6 @@ de:
     Arbeitskraft angewiesen.
 
 
-
     Die jüngste große Kampagne der Regularisierung von Menschen ohne Aufenthaltsstatus in Spanien hat
 
     gezeigt: Unsere Legalisierungsforderungen sind keine Utopie sondern realpolitisch machbar! Und:
@@ -287,7 +283,6 @@ de:
     umgesetzt werden. Unterstützung erfuhr die spanische Regularisierungspolitik nicht nur aus
 
     menschenrechtlichen, sondern auch aus wirtschaftlichen und steuerpolitischen Erwägungen.
-
 
 
     Die Situation der Illegalisierung ist Folge vielfältiger Krisen des globalen Kapitalismus, die uns alle
@@ -311,7 +306,6 @@ de:
     Jahr 2026 bis August bereits 1650 Tote im Mittelmeer zu verantworten.
 
 
-
     In Zeiten eines globalen Rechtsrucks und auch einer rassistischen Zuspitzung der deutschen
 
     Bundespolitik erwarten wir von Ihrer Berliner Regierungskoalition ein klares und entschlossenes
@@ -319,7 +313,6 @@ de:
     praktisches Eintreten für die Rechte aller migrantischen Berlinerinnen, auch der Menschen ohne
 
     Papiere!
-
 
 
     **Deswegen fordern wir folgende Maßnahmen** die auf Landesebene umgesetzt oder vom Land Berlin
@@ -335,21 +328,21 @@ de:
     Aufenthaltsstatus in Berlin zu schaffen.
 
 
-    1. Kollektive aufenthaltsrechtliche Lösungen schaffen!
+    1. **Kollektive aufenthaltsrechtliche Lösungen schaffen!**
        Das Land Berlin muss die Möglichkeiten des § 23 Abs. 1 AufenthG für eine gruppenbezogene
        humanitäre Aufenthaltsregelung nutzen. Die Vorschrift ermöglicht es der obersten
        Landesbehörde, aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung
        politischer Interessen anzuordnen, dass bestimmten Gruppen von Ausländer*innen eine
        Aufenthaltserlaubnis erteilt wird. Berlin soll eine entsprechende Aufnahmeanordnung für eine
        möglichst umfangreiche Gruppe von Menschen ohne gesicherten Aufenthaltsstatus initiieren.
-    2. Humanitäre Bleiberechte im Einzelfall stärken!
+    2. **Humanitäre Bleiberechte im Einzelfall stärken!**
        Neben kollektiven Lösungen müssen individuelle humanitäre Aufenthaltsmöglichkeiten
        gestärkt werden. Hierfür müssen insbesondere die Härtefallkommission und die sie tragenden
        Beratungsstrukturen mit ausreichenden personellen und finanziellen Ressourcen ausgestattet
        werden. Menschen in besonders vulnerablen Lebenssituationen müssen einen effektiven
        Zugang zu einer individuellen Prüfung humanitärer Bleiberechtsmöglichkeiten erhalten.
-    3. Berliner City-ID einführen und diskriminierungsfreien Zugang zur öffentlichen
-       Daseinsvorsorge schaffen!
+    3. **Berliner City-ID einführen und diskriminierungsfreien Zugang zur öffentlichen
+       Daseinsvorsorge schaffen!**
        Berlin muss eine City-ID einführen, wie es auch ein vom Berliner Senat 2023 beauftragtes
        Gutachten sowie die Initiative “Berlin zusammen” empfehlen. Die City-ID erleichtert allen
        Berliner*innen unabhängig von ihrem Aufenthaltsstatus den Zugang zu Dienstleistungen und
@@ -358,8 +351,8 @@ de:
        diskriminierungsfreien Zugang zur Gesundheitsversorgung für Menschen ohne gesicherten
        Aufenthaltsstatus gewährleisten, insbesondere durch geeignete Modelle einer elektronischen
        Gesundheitskarte.
-    4. Den Denunziationsparagraphen 87 abschaffen und institutionelle „Firewalls“
-       schaffen!
+    4. **Den Denunziationsparagraphen 87 abschaffen und institutionelle „Firewalls“
+       schaffen!**
        Das Land Berlin muss sich auf Bundesebene für die Abschaffung bzw. grundlegende
        Einschränkung der Übermittlungspflichten nach § 87 AufenthG einsetzen. Dieser fordert von
        Angestellten im öffentlichen Dienst (mit Ausnahme der Bildungseinrichtungen), die
@@ -372,8 +365,8 @@ de:
        Maß zu begrenzen und wirksame institutionelle „Firewalls“ zwischen Ausländerbehörden
        einerseits und Gesundheitsversorgung, sozialer Beratung, Jugendamt und anderen Bereichen
        der öffentlichen Daseinsvorsorge andererseits zu schaffen.
-    5. Repressive Maßnahmen im Rahmen der GEAS-Reform vor ihrer Umsetzung auf ihre
-       Grund- und Menschenrechtskonformität prüfen!
+    5. **Repressive Maßnahmen im Rahmen der GEAS-Reform vor ihrer Umsetzung auf ihre
+       Grund- und Menschenrechtskonformität prüfen!**
        Das Land Berlin muss verhindern, dass repressive Maßnahmen im Rahmen der GEAS-Reform
        in Berlin umgesetzt werden. Dafür müssen diese Maßnahmen umfassend auf ihre
        Vereinbarkeit mit dem Grundgesetz sowie mit den europäischen und internationalen
@@ -391,17 +384,34 @@ de:
        einsetzen und bis dahin gewährleisten, dass bei ihrer Anwendung die verfassungs-, unions-
        und menschenrechtlichen Grenzen von Freiheitsentziehungen sowie insbesondere der
        Richtervorbehalt und der Verhältnismäßigkeitsgrundsatz strikt gewahrt werden.
-       All dies ist möglich und wir fordern zum schnellen Handeln auf! Der aktuelle Zeitpunkt ist
-       entscheidend! Mit dieser Legislaturperiode gibt es für die Landesregierung die historische Möglichkeit,
-       gegen Rassismus, Rechtruck und Faschisierung die Weichen zu stellen - für fundamentale soziale und
-       politische sowie Menschen-Rechte für alle Berlinerinnen! Gerade in diesen Zeiten muss eine linke
-       Landesregierung an ihren Taten für Migrationsrechte gemessen werden!
-       Wir als Kampagne Legalisierung Jetzt! und als selbstorganisierte und für sich selbst sprechende
-       Bewegung erwarten, dass Sie uns auf diese Forderungen ein Antwort geben und mit uns in Kontakt
-       treten. Gemeinsam mit den uns unterstützenden Organisationen werden wir für diese Forderungen
-       auch weiter eintreten und sie gegenüber Ihrer Regierung einfordern.
-       PAPIERE FÜR ALLE!
-       LEGALISIERUNG JETZT!
+
+
+    All dies ist möglich und wir fordern zum schnellen Handeln auf! Der aktuelle Zeitpunkt ist
+
+    entscheidend! Mit dieser Legislaturperiode gibt es für die Landesregierung die historische Möglichkeit,
+
+    gegen Rassismus, Rechtruck und Faschisierung die Weichen zu stellen - für fundamentale soziale und
+
+    politische sowie Menschen-Rechte für alle Berlinerinnen! Gerade in diesen Zeiten muss eine linke
+
+    Landesregierung an ihren Taten für Migrationsrechte gemessen werden!
+
+
+
+    Wir als Kampagne Legalisierung Jetzt! und als selbstorganisierte und für sich selbst sprechende
+
+    Bewegung erwarten, dass Sie uns auf diese Forderungen ein Antwort geben und mit uns in Kontakt
+
+    treten. Gemeinsam mit den uns unterstützenden Organisationen werden wir für diese Forderungen
+
+    auch weiter eintreten und sie gegenüber Ihrer Regierung einfordern.
+
+
+    ### 
+
+    PAPIERE FÜR ALLE!
+
+    LEGALISIERUNG JETZT!
   signtitle: Erstunterzeichnende
 es:
   title: CARTA ABIERTA
