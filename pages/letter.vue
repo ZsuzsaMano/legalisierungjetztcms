@@ -3,10 +3,12 @@
     <h2>{{ currentContent.title }}</h2>
     <MDC :value="currentContent.content" />
   </section>
-  <Signatures />
+  <Signatures :signatureTitle="currentContent.signtitle" />
 </template>
 
 <script setup>
+import Signatures from "~/components/signatures.vue";
+
 const { data: letter } = reactive(
   await useAsyncData("letter", () => queryContent("letter").findOne()),
 );
@@ -18,8 +20,4 @@ const currentContent = computed(() => {
 });
 </script>
 
-<style lang="scss" scoped>
-main {
-  padding: 0rem 2rem;
-}
-</style>
+<style lang="scss" scoped></style>

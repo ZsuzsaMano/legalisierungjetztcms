@@ -70,10 +70,14 @@ body * {
 
 .content-box{
     background-color: $background;
-	padding: 0.5rem;
+	padding: 0.5rem 2rem;
 	border: 1px solid $light-grey;
 	margin-top: 2rem;
-}
+	@media (max-width: 599px) {
+			padding: 0rem 1rem;
+		}
+	
+	}
 
 // ── Buttons ─────────────────────────────────────────────
 $btn-bg: #F62B9E; // Protest Pink   oklch(0.652 0.248 352.3)
