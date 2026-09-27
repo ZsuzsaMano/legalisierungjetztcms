@@ -207,6 +207,13 @@ collections:
               widget: "markdown",
               i18n: true,
             }
+          - {
+              name: "signtitle",
+              label: "Signiture Title",
+              widget: "string",
+              i18n: true,
+            }
+
       - name: "press"
         label: "Press"
         i18n: true
