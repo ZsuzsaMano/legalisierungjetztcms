@@ -2,14 +2,18 @@
 en:
   title: Demands -  Open letter
   content: >-
-    
-    To Elif Eralp as the future mayor of Berlin, as well as all politicians involved in
+    To Elif Eralp as the future mayor of Berlin, as well as all politicians
+    involved in
 
     the current Berlin coalition negotiations
 
-    FOR THE PERMANENT, UNCONDITIONAL LEGALIZATION OF ALL
 
-    UNDOCUMENTED ILLEGALIZED MIGRANTS IN BERLIN
+
+    **FOR THE PERMANENT, UNCONDITIONAL LEGALIZATION OF ALL
+
+    UNDOCUMENTED ILLEGALIZED MIGRANTS IN BERLIN**
+
+
 
     We are addressing you as the "Legalization Now!" campaign. During the
 
@@ -26,6 +30,8 @@ en:
     Now, in your current governmental role, we expect you to plan and implement
 
     concrete measures toward the legalization of undocumented people in Berlin.
+
+
 
     In Berlin, an estimated 60,000 to 100,000 undocumented migrants live in
 
@@ -47,6 +53,8 @@ en:
 
     hospitality, and construction.
 
+
+
     At the same time, Berlin's service sector, in particular, relies on their invisible
 
     labor.The recent major campaign to regularize the immigration status of people
@@ -60,6 +68,8 @@ en:
     regularization policy received support not only for human rights reasons, but
 
     also for economic and fiscal considerations.
+
+
 
     The situation of illegal immigration is a consequence of the multifaceted crises
 
@@ -87,6 +97,8 @@ en:
 
     deaths in the Mediterranean by August 2026.
 
+
+
     In times of a global shift to the right and also a racist escalation in German
 
     federal politics, we expect your Berlin governing coalition to take a clear and
@@ -95,7 +107,9 @@ en:
 
     people without papers!
 
-    Therefore, we demand the following measures: These measures can be
+
+
+    **Therefore, we demand the following measures:** These measures can be
 
     implemented at the state level or politically initiated by the state of Berlin.
 
@@ -109,155 +123,82 @@ en:
 
     without secure residency status in Berlin.
 
-    1) Create collective solutions regarding residency rights!
 
-    The state of Berlin must utilize the options provided by Section 23
-
-    Paragraph 1 of the Residence Act for a group-based humanitarian
-
-    residence permit. This provision allows the highest state authority to order,
-
-    for reasons of international law, humanitarian reasons, or to safeguard
-
-    political interests, that residence permits be granted to specific groups of
-
-    foreigners. Berlin should initiate a corresponding admission order for the
-
-    largest possible group of people without secure residence status.
-
-    2) Strengthen humanitarian rights to remain in individual cases!
-
-    In addition to collective solutions, individual humanitarian residence
-
-    options must be strengthened. To this end, the hardship commission and
-
-    its supporting advisory structures must be provided with sufficient
-
-    personnel and financial resources. People in particularly vulnerable
-
-    situations must have effective access to an individual assessment of their
-
-    humanitarian residence permit options.
-
-    3) Introduce a Berlin City ID and create non-discriminatory access
-
-    to public services!Berlin must introduce a City ID, as
-
-    recommended by an expert report commissioned by the Berlin
-
-    Senate in 2023 and by the "Berlin Together" initiative.
-
-    The City ID would facilitate access to services and facilities for all
-
-    Berliners, regardless of their residency status. It should not be limited to
-
-    services such as libraries, cultural institutions, or leisure facilities. At the
-
-    same time, Berlin must guarantee anonymized and non-discriminatory
-
-    access to healthcare for people without secure residency status,
-
-    particularly through suitable electronic health card models.
-
-    4) Abolish the denunciation paragraph 87 and create institutional
-
-    "firewalls"!
-
-    The state of Berlin must advocate at the federal level for the abolition or
-
-    fundamental restriction of the reporting obligations under Section 87 of
-
-    the Residence Act. This section requires public sector employees (with the
-
-    exception of those in educational institutions) to report information about
-
-    a person's illegal status to the immigration authorities.
-
-    These reporting obligations can prevent people without secure residency
-
-    status from accessing public services and fundamental rights. As long as
-
-    the federal reporting obligations exist, Berlin must exhaust all legally
-
-    available options to prevent this.To limit data transfers to immigration
-
-    authorities to the legally required minimum and to create effective
-
-    institutional "firewalls" between immigration authorities on the one hand
-
-    and healthcare, social counselling, youth welfare offices and other areas of
-
-    public services on the other.
-
-    5)Repressive measures within the framework of the CEAS reform
-
-    must be examined for their compliance with fundamental and
-
-    human rights before their implementation!
-
-    The State of Berlin must prevent the implementation of repressive
-
-    measures within the framework of the Common European Asylum System
-
-    (CEAS) reform in Berlin. To this end, these measures must be
-
-    comprehensively reviewed for their compatibility with the German Basic
-
-    Law (Constitution) and with European and international human rights. This
-
-    applies in particular to measures involving deprivation of liberty,
-
-    restrictions of liberty, segregation, or other significant infringements of the
-
-    fundamental rights of refugees and migrants. In implementing these
-
-    measures, the State of Berlin must exhaust all existing legal and
-
-    administrative options available to protect the fundamental and human
-
-    rights of those affected.At the same time, Berlin must advocate at the
-
-    federal level against the expansion of deprivation of liberty under
-
-    migration law and for the abolition of regulations that allow detention
-
-    without a prior judicial decision. This applies in particular to Section 62
-
-    Paragraph 5 of the Residence Act. This provision allows for temporary
-
-    detention and custody without a prior judicial order. Berlin must advocate
-
-    for the abolition of this regulation and, until then, ensure that its
-
-    application strictly adheres to the constitutional, EU, and human rights
-
-    limits on deprivation of liberty, and in particular to the requirement of a
-
-    judicial warrant and the principle of proportionality.
-
-    All of this is possible, and we urge swift action! The timing is crucial! This
-
-    legislative period presents the state government with a historic opportunity to
-
-    set the course against racism, the rise of the right, and fascism—for
-
-    fundamental social, political, and human rights for all Berliners! Especially in
-
-    these times, a left-wing state government must be judged by its actions on
-
-    behalf of migration rights!
-
-    We, as the "Legalization Now!" campaign and as a self-organized and
-
-    independent movement, expect you to respond to these demands and contact
-
-    us. Together with the organizations that support us, we will continue to
-
-    advocate for these demands and press your government on them.
-
-    PAPERS FOR EVERYONE!
-
-    LEGALIZATION NOW!
+    1. Create collective solutions regarding residency rights!
+       The state of Berlin must utilize the options provided by Section 23
+       Paragraph 1 of the Residence Act for a group-based humanitarian
+       residence permit. This provision allows the highest state authority to order,
+       for reasons of international law, humanitarian reasons, or to safeguard
+       political interests, that residence permits be granted to specific groups of
+       foreigners. Berlin should initiate a corresponding admission order for the
+       largest possible group of people without secure residence status.
+    2. Strengthen humanitarian rights to remain in individual cases!
+       In addition to collective solutions, individual humanitarian residence
+       options must be strengthened. To this end, the hardship commission and
+       its supporting advisory structures must be provided with sufficient
+       personnel and financial resources. People in particularly vulnerable
+       situations must have effective access to an individual assessment of their
+       humanitarian residence permit options.
+    3. Introduce a Berlin City ID and create non-discriminatory access
+       to public services!Berlin must introduce a City ID, as
+       recommended by an expert report commissioned by the Berlin
+       Senate in 2023 and by the "Berlin Together" initiative.
+       The City ID would facilitate access to services and facilities for all
+       Berliners, regardless of their residency status. It should not be limited to
+       services such as libraries, cultural institutions, or leisure facilities. At the
+       same time, Berlin must guarantee anonymized and non-discriminatory
+       access to healthcare for people without secure residency status,
+       particularly through suitable electronic health card models.
+    4. Abolish the denunciation paragraph 87 and create institutional
+       "firewalls"!
+       The state of Berlin must advocate at the federal level for the abolition or
+       fundamental restriction of the reporting obligations under Section 87 of
+       the Residence Act. This section requires public sector employees (with the
+       exception of those in educational institutions) to report information about
+       a person's illegal status to the immigration authorities.
+       These reporting obligations can prevent people without secure residency
+       status from accessing public services and fundamental rights. As long as
+       the federal reporting obligations exist, Berlin must exhaust all legally
+       available options to prevent this.To limit data transfers to immigration
+       authorities to the legally required minimum and to create effective
+       institutional "firewalls" between immigration authorities on the one hand
+       and healthcare, social counselling, youth welfare offices and other areas of
+       public services on the other.
+       5)Repressive measures within the framework of the CEAS reform
+       must be examined for their compliance with fundamental and
+       human rights before their implementation!
+       The State of Berlin must prevent the implementation of repressive
+       measures within the framework of the Common European Asylum System
+       (CEAS) reform in Berlin. To this end, these measures must be
+       comprehensively reviewed for their compatibility with the German Basic
+       Law (Constitution) and with European and international human rights. This
+       applies in particular to measures involving deprivation of liberty,
+       restrictions of liberty, segregation, or other significant infringements of the
+       fundamental rights of refugees and migrants. In implementing these
+       measures, the State of Berlin must exhaust all existing legal and
+       administrative options available to protect the fundamental and human
+       rights of those affected.At the same time, Berlin must advocate at the
+       federal level against the expansion of deprivation of liberty under
+       migration law and for the abolition of regulations that allow detention
+       without a prior judicial decision. This applies in particular to Section 62
+       Paragraph 5 of the Residence Act. This provision allows for temporary
+       detention and custody without a prior judicial order. Berlin must advocate
+       for the abolition of this regulation and, until then, ensure that its
+       application strictly adheres to the constitutional, EU, and human rights
+       limits on deprivation of liberty, and in particular to the requirement of a
+       judicial warrant and the principle of proportionality.
+       All of this is possible, and we urge swift action! The timing is crucial! This
+       legislative period presents the state government with a historic opportunity to
+       set the course against racism, the rise of the right, and fascism—for
+       fundamental social, political, and human rights for all Berliners! Especially in
+       these times, a left-wing state government must be judged by its actions on
+       behalf of migration rights!
+       We, as the "Legalization Now!" campaign and as a self-organized and
+       independent movement, expect you to respond to these demands and contact
+       us. Together with the organizations that support us, we will continue to
+       advocate for these demands and press your government on them.
+       PAPERS FOR EVERYONE!
+       LEGALIZATION NOW!
   signtitle: First Signatories
 de:
   title: OFFENER BRIEF
