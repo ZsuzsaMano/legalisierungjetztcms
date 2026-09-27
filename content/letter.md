@@ -164,9 +164,9 @@ en:
        institutional "firewalls" between immigration authorities on the one hand
        and healthcare, social counselling, youth welfare offices and other areas of
        public services on the other.
-       5)Repressive measures within the framework of the CEAS reform
+    5. **Repressive measures within the framework of the CEAS reform
        must be examined for their compliance with fundamental and
-       human rights before their implementation!
+       human rights before their implementation!**
        The State of Berlin must prevent the implementation of repressive
        measures within the framework of the Common European Asylum System
        (CEAS) reform in Berlin. To this end, these measures must be
@@ -187,18 +187,36 @@ en:
        application strictly adheres to the constitutional, EU, and human rights
        limits on deprivation of liberty, and in particular to the requirement of a
        judicial warrant and the principle of proportionality.
-       All of this is possible, and we urge swift action! The timing is crucial! This
-       legislative period presents the state government with a historic opportunity to
-       set the course against racism, the rise of the right, and fascism—for
-       fundamental social, political, and human rights for all Berliners! Especially in
-       these times, a left-wing state government must be judged by its actions on
-       behalf of migration rights!
-       We, as the "Legalization Now!" campaign and as a self-organized and
-       independent movement, expect you to respond to these demands and contact
-       us. Together with the organizations that support us, we will continue to
-       advocate for these demands and press your government on them.
-       PAPERS FOR EVERYONE!
-       LEGALIZATION NOW!
+
+
+    All of this is possible, and we urge swift action! The timing is crucial! This
+
+    legislative period presents the state government with a historic opportunity to
+
+    set the course against racism, the rise of the right, and fascism—for
+
+    fundamental social, political, and human rights for all Berliners! Especially in
+
+    these times, a left-wing state government must be judged by its actions on
+
+    behalf of migration rights!
+
+
+
+    We, as the "Legalization Now!" campaign and as a self-organized and
+
+    independent movement, expect you to respond to these demands and contact
+
+    us. Together with the organizations that support us, we will continue to
+
+    advocate for these demands and press your government on them.
+
+
+    #### 
+
+    **PAPERS FOR EVERYONE!
+
+    LEGALIZATION NOW!**
   signtitle: First Signatories
 de:
   title: OFFENER BRIEF
