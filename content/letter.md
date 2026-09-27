@@ -8,11 +8,9 @@ en:
     the current Berlin coalition negotiations
 
 
-
     **FOR THE PERMANENT, UNCONDITIONAL LEGALIZATION OF ALL
 
     UNDOCUMENTED ILLEGALIZED MIGRANTS IN BERLIN**
-
 
 
     We are addressing you as the "Legalization Now!" campaign. During the
@@ -30,7 +28,6 @@ en:
     Now, in your current governmental role, we expect you to plan and implement
 
     concrete measures toward the legalization of undocumented people in Berlin.
-
 
 
     In Berlin, an estimated 60,000 to 100,000 undocumented migrants live in
@@ -54,7 +51,6 @@ en:
     hospitality, and construction.
 
 
-
     At the same time, Berlin's service sector, in particular, relies on their invisible
 
     labor.The recent major campaign to regularize the immigration status of people
@@ -68,7 +64,6 @@ en:
     regularization policy received support not only for human rights reasons, but
 
     also for economic and fiscal considerations.
-
 
 
     The situation of illegal immigration is a consequence of the multifaceted crises
@@ -98,7 +93,6 @@ en:
     deaths in the Mediterranean by August 2026.
 
 
-
     In times of a global shift to the right and also a racist escalation in German
 
     federal politics, we expect your Berlin governing coalition to take a clear and
@@ -106,7 +100,6 @@ en:
     determined practical stand for the rights of all migrant Berliners, including
 
     people without papers!
-
 
 
     **Therefore, we demand the following measures:** These measures can be
@@ -188,7 +181,6 @@ en:
        limits on deprivation of liberty, and in particular to the requirement of a
        judicial warrant and the principle of proportionality.
 
-
     All of this is possible, and we urge swift action! The timing is crucial! This
 
     legislative period presents the state government with a historic opportunity to
@@ -202,7 +194,6 @@ en:
     behalf of migration rights!
 
 
-
     We, as the "Legalization Now!" campaign and as a self-organized and
 
     independent movement, expect you to respond to these demands and contact
@@ -212,9 +203,7 @@ en:
     advocate for these demands and press your government on them.
 
 
-    #### 
-
-    **PAPERS FOR EVERYONE!
+    ### **PAPERS FOR EVERYONE!
 
     LEGALIZATION NOW!**
   signtitle: First Signatories
