@@ -91,14 +91,14 @@ nav {
 .main-menu__basic {
   position: relative;
   display: flex;
-  flex-wrap: wrap;
   align-content: center;
   margin: 0;
   padding: 0;
 
   @include media(xsm) {
-    position: relative;
-    display: block;
+    flex-direction: column;
+    text-align: center;
+    gap: 0.5rem;
     height: 100%;
     margin: 0;
     padding-left: 0;
@@ -123,6 +123,9 @@ nav {
         outline: 0.3em solid var(--hover-background-color);
       }
     }
+    .iconify {
+      display: inline-block;
+    }
   }
 }
 
@@ -131,9 +134,6 @@ nav {
 nav {
   @include media(xsm) {
     display: none;
-    menu {
-      display: block !important;
-    }
   }
 }
 

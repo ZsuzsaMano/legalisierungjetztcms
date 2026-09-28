@@ -25,12 +25,15 @@ section {
   display: flex;
   align-items: center;
   margin: 0rem 2rem;
+  @include media(xsm) {
+    margin: 0;
+  }
 }
 .button-locale {
   display: inline-block;
   color: $grey;
   font-size: small;
-  padding: 0.3rem;
+  padding: 0rem 0.3rem;
   &:hover {
     color: $base-color;
   }
