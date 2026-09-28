@@ -410,11 +410,9 @@ es:
     en las actuales negociaciones para formar la coalición en Berlín
 
 
-
     **POR LA LEGALIZACIÓN PERMANENTE E INCONDICIONAL DE TODAS LAS
 
     PERSONAS MIGRANTES INDOCUMENTADAS E ILEGALIZADAS EN BERLÍN**
-
 
 
     Nos dirigimos a usted en nombre de la campaña «¡Legalización ya!». Durante la pandemia,
@@ -436,7 +434,6 @@ es:
     las personas indocumentadas en Berlín.
 
 
-
     Se estima que en Berlín viven entre 60 000 y 100 000 personas migrantes indocumentadas
 
     en condiciones precarias y privadas de derechos, y bajo el miedo constante a los controles
@@ -456,7 +453,6 @@ es:
     todos aquelles que las cuidan.
 
 
-
     Como trabajadores y trabajadoras en situación irregular, las personas sin papeles están,
 
     además, expuestas en mayor medida al riesgo de sufrir explotación y violencia, por ejemplo,
@@ -466,7 +462,6 @@ es:
     construcción. Al mismo tiempo, el sector de los servicios de Berlín, en particular, depende
 
     de esta mano de obra invisible.
-
 
 
     La última gran campaña de regularización de personas sin permiso de residencia en
@@ -480,7 +475,6 @@ es:
     La política de regularización española recibió apoyo no solo por motivos de derechos
 
     humanos, sino también por consideraciones económicas y fiscales.
-
 
 
     La situación de ilegalización es consecuencia de múltiples crisis del capitalismo global que
@@ -502,7 +496,6 @@ es:
     federal y de la UE.
 
 
-
     Con la introducción de las reformas del SECA-sistema eruopeo común de asilo (GEAS, por
 
     sus siglas en alemán), se han restringido aún más los derechos de asilo y se ha impulsado
@@ -514,7 +507,6 @@ es:
     muertes en el Mediterráneo.
 
 
-
     En tiempos de un giro global hacia la derecha y de una escalada racista en la política federal
 
     alemana, esperamos de su coalición de Gobierno de Berlín un compromiso claro, decidido
@@ -522,7 +514,6 @@ es:
     y concreto con los derechos de todas las personas migrantes de Berlín, ¡incluidas las
 
     personas indocumentadas!
-
 
 
     **Por ello, exigimos las siguientes medidas** que puedan aplicarse a nivel regional o que el
@@ -607,7 +598,6 @@ es:
        privación de libertad, así como, en particular, la reserva judicial y el principio de
        proporcionalidad.
 
-
     ¡Todo esto es posible y pedimos que se actúe con rapidez!
 
     ¡Este momento es decisivo! Con esta legislatura, el Gobierno regional tiene la oportunidad
@@ -623,7 +613,6 @@ es:
     migrantes!
 
 
-
     Nosotres, como campaña «¡Legalización ya!» y como movimiento autoorganizado y que
 
     habla por sí mismo, esperamos que nos den una respuesta a estas reivindicaciones y se
@@ -633,9 +622,7 @@ es:
     seguiremos defendiendo estas reivindicaciones y exigiéndolas a su Gobierno.
 
 
-    ### 
-
-    ¡Papeles para todas, todes y todos!
+    ### ¡Papeles para todas, todes y todos!
 
     ¡LEGALIZACIÓN YA!
   signtitle: Primeros firmantes
