@@ -1,6 +1,6 @@
 ---
 en:
-  title: Close the gap, Open the Borders
+  title: "Close the gap, Open the Borders "
   content: We demand the legalization of all undocumented migrants in Berlin
   SEOmetaData:
     metaTitle: Legalisierung jetzt
