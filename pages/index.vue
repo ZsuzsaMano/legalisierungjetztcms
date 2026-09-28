@@ -3,7 +3,7 @@
     <section class="text-box">
       <h1>{{ currentContent.title }}</h1>
       <MDC :value="currentContent.content" />
-      <NuxtLink to="/letter" class="button">
+      <NuxtLink :to="localePath('/letter')" class="button">
         {{ currentContent.button }}
         <Icon name="material-symbols:arrow-outward-rounded" size="1.2rem" />
       </NuxtLink>
@@ -20,6 +20,7 @@ const { data: home } = reactive(
 );
 
 const { locale } = useI18n();
+const localePath = useLocalePath();
 
 const currentContent = computed(() => {
   return home?.[locale.value] || home?.de || {};

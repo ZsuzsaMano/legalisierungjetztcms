@@ -10,11 +10,13 @@
 
     <nav :class="{ mobileMenuOpen: mobileMenuActive }">
       <menu class="main-menu__basic">
-        <NuxtLink to="/" class="menu-item" prefetch> Home </NuxtLink>
+        <NuxtLink :to="localePath('/')" class="menu-item" prefetch>
+          Home
+        </NuxtLink>
         <NuxtLink
           v-for="(isActive, path) in currentContent"
           :key="path"
-          :to="`/${path}`"
+          :to="localePath(`/${path}`)"
           v-show="isActive"
           class="menu-item"
           prefetch
@@ -51,6 +53,7 @@ const { data: header } = await useAsyncData("header", () =>
 );
 
 const { locale } = useI18n();
+const localePath = useLocalePath();
 
 const currentContent = computed(() => {
   return paths.value?.[locale.value] || paths.value?.de || {};
