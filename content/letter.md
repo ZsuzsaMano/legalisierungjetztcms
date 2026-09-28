@@ -397,7 +397,8 @@ de:
 
     ### PAPIERE FÜR ALLE!
 
-    LEGALISIERUNG JETZT!
+
+    ### LEGALISIERUNG JETZT!
   signtitle: Erstunterzeichnende
 es:
   title: CARTA ABIERTA
