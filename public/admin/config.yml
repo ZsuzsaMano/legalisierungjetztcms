@@ -148,7 +148,7 @@ collections:
         i18n: true
         file: "content/home.md"
         fields:
-          - { name: "title", label: "Title", widget: "string", i18n: true }
+          - { name: "title", label: "Title", widget: "string", i18n: duplicate }
           - {
               name: "content",
               label: "Content",
