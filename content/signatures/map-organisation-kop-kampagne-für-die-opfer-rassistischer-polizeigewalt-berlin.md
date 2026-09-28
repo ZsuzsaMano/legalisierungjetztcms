@@ -1,10 +1,10 @@
 ---
 en:
-  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
+  organisation: " FairBindung e.V."
 de:
-  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
+  organisation: " FairBindung e.V."
 es:
-  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
+  organisation: " FairBindung e.V."
 ar:
-  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
+  organisation: " FairBindung e.V."
 ---
