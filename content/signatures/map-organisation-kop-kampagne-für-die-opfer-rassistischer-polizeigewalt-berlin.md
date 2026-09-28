@@ -1,10 +1,10 @@
 ---
 en:
-  organisation: " FairBindung e.V."
+  organisation: Asamblea por la Vida Berlin
 de:
-  organisation: " FairBindung e.V."
+  organisation: Asamblea por la Vida Berlin
 es:
-  organisation: " FairBindung e.V."
+  organisation: Asamblea por la Vida Berlin
 ar:
-  organisation: " FairBindung e.V."
+  organisation: Asamblea por la Vida Berlin
 ---
