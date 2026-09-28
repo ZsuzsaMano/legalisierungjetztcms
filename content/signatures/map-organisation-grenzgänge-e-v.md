@@ -1,10 +1,10 @@
 ---
 en:
-  organisation: Grenzgänge e.V.
+  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
 de:
-  organisation: Grenzgänge e.V.
+  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
 es:
-  organisation: Grenzgänge e.V.
+  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
 ar:
-  organisation: Grenzgänge e.V.
+  organisation: KOP. Kampagne für die Opfer rassistischer Polizeigewalt Berlin
 ---
