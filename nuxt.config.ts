@@ -8,6 +8,25 @@ export default defineNuxtConfig({
       charset: "utf-8",
       viewport: "width=device-width, initial-scale=1",
       title: "Legalisierung Jetzt",
+      script: [
+        {
+          src: "https://identity.netlify.com/v1/netlify-identity-widget.js",
+        },
+        {
+          innerHTML: `
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", (user) => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+          `,
+          tagPosition: "bodyClose",
+        },
+      ],
     },
   },
   modules: ["@nuxt/content", "@nuxtjs/i18n", "@nuxt/icon"],

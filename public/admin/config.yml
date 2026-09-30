@@ -1,5 +1,5 @@
 # disable in production:
-local_backend: true
+local_backend: false
 # command to run a local Decap instance: npx-decap-server
 i18n:
   # Required and can be one of multiple_folders, multiple_files or single_file
