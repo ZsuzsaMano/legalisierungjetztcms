@@ -40,7 +40,7 @@ de:
     Deutsche Skatbank
 
     Transfer reference: Legalisierungjetzt
-  title: Bank Account
+  title: Bankkonto
   content2: >-
     [ legalisierungjetzt2026@proton.me](mailto:legalisierungjetzt2026@proton.me)
 
@@ -52,7 +52,7 @@ de:
 
     [Zur ursprünglichen Kampagnenseite ](https://legalisierungjetzt.net/)
 es:
-  title: es
+  title: Cuenta bancaria
   content: |-
     Respect Berlin
 
@@ -70,6 +70,7 @@ es:
     [Facebook](https://www.facebook.com/legalisierungjetzt/) · [X](https://twitter.com/legaljetzt) · [Instagram](https://www.instagram.com/legalisierung_jetzt/)
   title3: es
   content3: es
+  title2: Contacto
 ar:
   title: Ar
   content: |-
