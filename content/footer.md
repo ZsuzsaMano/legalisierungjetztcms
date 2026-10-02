@@ -51,6 +51,7 @@ de:
     Close the gap. Open the borders. Gemeinsam sichtbar bleiben.
 
     [Zur ursprünglichen Kampagnenseite ](https://legalisierungjetzt.net/)
+  title3: Legalisierung Jetzt
 es:
   title: Cuenta bancaria
   content: |-
