@@ -419,9 +419,7 @@ es:
 
     la legalización permanente e incondicional de todas las personas migrantes sin permiso de
 
-    residencia en Berlín. En aquel momento, políticos de Die Linke y de Bündnis 90/ die Grünen,
-
-    que entonces formaban parte de la oposición, nos prometieron su apoyo. Usted, Elif Eralp,
+    residencia en Berlín. En aquel momento, políticos de Die Linke y de Bündnis 90/ die Grünen nos prometieron su apoyo. Usted, Elif Eralp,
 
     por ejemplo, se reunió con nosotres y puso en marcha un informe pericial para la creación
 
@@ -621,6 +619,7 @@ es:
 
 
     ### ¡Papeles para todas, todes y todos!
+
 
     ¡LEGALIZACIÓN YA!
   signtitle: Primeros firmantes
