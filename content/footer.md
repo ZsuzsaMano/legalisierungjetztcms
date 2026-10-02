@@ -28,7 +28,7 @@ en:
   content3: |-
     Close the gap. Open the borders. Gemeinsam sichtbar bleiben.
 
-    [Zur ursprünglichen Kampagnenseite ](https://legalisierungjetzt.net/)
+    [To the original page of the capaigm ](https://legalisierungjetzt.net/)
 de:
   content: |-
     Respect Berlin
