@@ -10,5 +10,5 @@ es:
   text: Sitio anterior
 ar:
   url: https://legalisierungjetzt.net/
-  text: ar
+  text: صفحة قدمة
 ---
