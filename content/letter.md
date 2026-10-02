@@ -21,7 +21,7 @@ en:
 
     migrants without residency permits in Berlin. At that time, left-wing and Green
 
-    politicians from the then-opposition pledged their support. You, Elif Eralp, for
+    politicians pledged their support. You, Elif Eralp, for
 
     example, met with us and commissioned an expert report on a Berlin City ID.
 
@@ -228,9 +228,7 @@ de:
 
     dauerhafte und bedingungslose Legalisierung aller migrantischen Personen ohne
 
-    Aufenthaltsgenehmigung in Berlin eingesetzt. Damals haben Linke und Grüne Politikerinnen aus der
-
-    damaligen Opposition uns ihre Unterstützung zugesagt. Sie, Elif Eralp, haben sich beispielsweise mit
+    Aufenthaltsgenehmigung in Berlin eingesetzt. Damals haben Linke und Grüne Politikerinnen uns ihre Unterstützung zugesagt. Sie, Elif Eralp, haben sich beispielsweise mit
 
     uns getroffen und ein Gutachten für eine Berliner City ID auf den Weg gebracht. In Ihrer
 
