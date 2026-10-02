@@ -7,7 +7,7 @@ en:
     metaDescription: Close the Gap, Open the Borders
     metaImage: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
   Image: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
-  button: Leer la carta abierta
+  button: Read open letter
 de:
   SEOmetaData:
     metaTitle: Legalisierung jetzt
@@ -27,8 +27,9 @@ es:
     metaImage: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
     keywords: null
   title: Close the gap, Open the Borders
-  content: spanish
+  content: Pedimos la regularización de todes migrantes illegalizados a Berlin
   Image: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
+  button: Leer la carta abierta
 ar:
   SEOmetaData:
     metaTitle: Legalisierung jetzt
@@ -36,7 +37,7 @@ ar:
     metaImage: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
     keywords: null
   title: Close the gap, Open the Borders
-  content: arabic
+  content: \[Arabic coming coon, sorry!]
   Image: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
-  button: ar
+  button: "[Arabic coming coon, sorry!]"
 ---
