@@ -90,5 +90,8 @@ ar:
     [Facebook](https://www.facebook.com/legalisierungjetzt/) · [X](https://twitter.com/legaljetzt) · [Instagram](https://www.instagram.com/legalisierung_jetzt/)
   title2: ar
   title3: ar
-  content3: ar
+  content3: |-
+    Close the gap. Open the borders. Gemeinsam sichtbar bleiben.
+
+    إلى الصفحة قدمة
 ---
