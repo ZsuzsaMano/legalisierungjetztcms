@@ -27,7 +27,7 @@ es:
     metaImage: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
     keywords: null
   title: Close the gap, Open the Borders
-  content: Pedimos la regularización de todes migrantes illegalizados a Berlin
+  content: Exigimos la regularización de todes les migrantes ilegalizadxs en Berlín
   Image: https://legalisierungjetzt.net/static/media/Illegal.6b9da9aa.png
   button: Leer la carta abierta
 ar:
