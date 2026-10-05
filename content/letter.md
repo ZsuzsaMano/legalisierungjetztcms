@@ -2,10 +2,10 @@
 en:
   title: Demands -  Open letter
   content: >-
-    To Elif Eralp as the future mayor of Berlin, as well as all politicians
+    *To Elif Eralp as the future mayor of Berlin, as well as all politicians
     involved in
 
-    the current Berlin coalition negotiations
+    the current Berlin coalition negotiations*
 
 
     **FOR THE PERMANENT, UNCONDITIONAL LEGALIZATION OF ALL
@@ -211,10 +211,8 @@ en:
 de:
   title: OFFENER BRIEF
   content: >-
-    An Elif Eralp als zukünftige Bürgermeisterin von Berlin sowie alle an den
-    aktuellen Berliner
-
-    Koalitionsverhandlungen beteiligten Politikerinnen
+    *An Elif Eralp als zukünftige Bürgermeisterin von Berlin sowie alle an den
+    aktuellen Berliner Koalitionsverhandlungen beteiligten Politikerinnen*
 
 
     **FÜR DIE DAUERHAFTE, BEDINGUNGSLOSE LEGALISIERUNG ALLER UNDOKUMENTIERTEN
