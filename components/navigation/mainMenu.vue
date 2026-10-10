@@ -30,6 +30,7 @@
           style="font-size: small"
         >
           {{ currentHeaderContent.text }}
+
           <Icon name="material-symbols:arrow-outward-rounded" size="1.2rem" />
         </NuxtLink>
       </menu>

@@ -5,7 +5,5 @@
 </template>
 
 <script setup>
-const { data: gallery } = reactive(
-  await useAsyncData("gallery", () => queryContent("/pages/gallery").findOne()),
-);
+const { data: gallery } = await usePageContent("/gallery");
 </script>

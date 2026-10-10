@@ -6,11 +6,7 @@
 </template>
 
 <script setup>
-const { data: typography } = reactive(
-  await useAsyncData("typography", () =>
-    queryContent("/pages/typography").findOne(),
-  ),
-);
+const { data: typography } = await usePageContent("/typography");
 </script>
 
 <style lang="scss" scoped>

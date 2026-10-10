@@ -5,9 +5,5 @@
 </template>
 
 <script setup>
-const { data: documents } = reactive(
-  await useAsyncData("documents", () =>
-    queryContent("/pages/documents").findOne(),
-  ),
-);
+const { data: documents } = await usePageContent("/documents");
 </script>

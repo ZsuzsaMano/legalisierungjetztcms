@@ -5,6 +5,7 @@
       <MDC :value="currentContent.content" />
       <NuxtLink :to="localePath('/letter')" class="button">
         {{ currentContent.button }}
+
         <Icon name="material-symbols:arrow-outward-rounded" size="1.2rem" />
       </NuxtLink>
     </section>
@@ -15,18 +16,9 @@
 </template>
 
 <script setup>
-const { data: home } = reactive(
-  await useAsyncData("home", () => queryContent("/home").findOne()),
-);
-
-const { locale } = useI18n();
+const { currentContent } = await usePageContent("home");
 const localePath = useLocalePath();
-
-const currentContent = computed(() => {
-  return home?.[locale.value] || home?.de || {};
-});
-
-setSeoHead(home[locale.value].SEOmetaData);
+setSeoHead(currentContent.value.SEOmetaData);
 </script>
 
 <style lang="scss" scoped>

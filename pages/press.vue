@@ -11,9 +11,7 @@
 </template>
 
 <script setup>
-const { data: press } = reactive(
-  await useAsyncData("press", () => queryContent("/pages/press").findOne()),
-);
+const { data: press } = await usePageContent("/press");
 </script>
 
 <style lang="scss" scoped>

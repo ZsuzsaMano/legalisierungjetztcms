@@ -9,15 +9,7 @@
 <script setup>
 import Signatures from "~/components/signatures.vue";
 
-const { data: letter } = reactive(
-  await useAsyncData("letter", () => queryContent("letter").findOne()),
-);
-
-const { locale } = useI18n();
-
-const currentContent = computed(() => {
-  return letter?.[locale.value] || letter?.value.de || {};
-});
+const { currentContent } = await usePageContent("/letter");
 </script>
 
 <style lang="scss" scoped>
