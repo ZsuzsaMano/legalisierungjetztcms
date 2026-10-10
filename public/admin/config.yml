@@ -271,3 +271,32 @@ collections:
           widget: "string",
           i18n: duplicate,
         }
+  - name: "events"
+    label: "Events"
+    folder: "content/events"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Place", name: "place", widget: "string" }
+  - name: "press"
+    label: "Press Articles"
+    folder: "content/press"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "YYYY-MM-DD",
+        }
+      - { label: "Article Link", name: "link", widget: "string" }
+      - {
+          label: "Show on Main Page",
+          name: "featured",
+          widget: "boolean",
+          default: false,
+        }
