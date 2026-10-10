@@ -72,16 +72,26 @@ setSeoHead(currentContent.value.SEOmetaData);
 <style lang="scss" scoped>
 #main {
   display: flex;
+  align-items: center;
   gap: 1rem;
   @media (max-width: 599px) {
     flex-wrap: wrap;
     gap: 2rem;
   }
   .text-box {
+    flex: 1 1 58%;
+    min-width: 0;
     padding: 0 2rem;
     .button {
       margin-top: 2rem;
     }
+  }
+
+  > div {
+    display: flex;
+    flex: 0 1 42%;
+    min-width: 0;
+    align-items: center;
   }
 
   // assets/scss/mixins
@@ -90,6 +100,12 @@ setSeoHead(currentContent.value.SEOmetaData);
   img {
     max-width: 100%;
     height: auto;
+  }
+
+  > div img {
+    width: 100%;
+    max-height: 32rem;
+    object-fit: contain;
   }
 }
 
@@ -134,6 +150,11 @@ setSeoHead(currentContent.value.SEOmetaData);
 }
 
 @media (max-width: 599px) {
+  #main .text-box,
+  #main > div {
+    flex-basis: 100%;
+  }
+
   .article-preview > img {
     width: 6rem;
     height: 5rem;
